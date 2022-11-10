@@ -51,7 +51,7 @@ def split(L):
         return ((H0, T0), (H1, T1))
 
 
-# função que retorna true quando a lista for orndenada em ordem ascendente e false quando o oposto
+# função que retorna true quando a lista for ordenada em ordem crescente e false quando o oposto
 def sorted(L):
     if not L:
         return True
@@ -82,8 +82,20 @@ def merge(L0, L1):
             return (H1, merge(L0, T1))
 
 
+# função pura msort (merge sort) que recebe uma lista L e retorna uma lista LL, tal que as seguintes propriedades
+# sejam verdadeiras:
+# e in L <=> e in LL
+# sorted(LL)
+def mSort(L):
+    if not L:
+        return None
+    elif not tail(L):
+        return L
+    else:
+        (L0, L1) = split(L)
+        return merge(mSort(L0), mSort(L1))
+
+
 # inicializador
 if __name__ == "__main__":
-    L0 = py2ll([2, 4, 6])
-    L1 = py2ll([2, 3, 5])
-    print((merge(L0, L1)))
+    print(ll2py(mSort(py2ll([81, 4, 6, 8, 10]))))
