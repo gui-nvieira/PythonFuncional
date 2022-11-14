@@ -35,6 +35,16 @@ def size(L):
         return 1 + size(tail(L))
 
 
+# funçao pura para informar o fatorial de um número
+def fact(N):
+    if not N:
+        return None
+    elif N == 0 or N == 1:
+        return 1
+    else:
+        return (N*(fact(N-1)))
+
+
 # Função que divide uma lista em duas metades e que os parametros abaixo sejam verdadeiros:
 # e in L =>  e in L0 || e in L1
 # size(L) == size (L0) + size(L1)
@@ -96,6 +106,64 @@ def mSort(L):
         return merge(mSort(L0), mSort(L1))
 
 
+# função test que recebe três parametros:
+# - Um título para o teste
+# - Uma expressão a ser testada
+# - O Valor esperado
+def test(title, value, expected):
+    print("[" + title + "] " + str(value))
+    if value == expected:
+        print("Pass")
+    else:
+        print("Fail")
+
+
+# função que incrementa cada elemento de uma lista, produzindo uma nova lista (map)
+def incL(L):
+    if not L:
+        return None
+    else:
+        return (head(L)+1, incL(tail(L)))
+
+
+# função que calcula o fatorial de cada elemento de uma lista encadeada, produzindo uma nova lista (map):
+def factL(L):
+    if not L:
+        return None
+    else:
+        return (fact(head(L)), factL(tail(L)))
+
+
+# função que converte para string cada elemento de uma lista encadeada (map)
+def strL(L):
+    if not L:
+        return None
+    else:
+        return (str(head(L)), strL(tail(L)))
+
+
+# estrutura padrão para map ou mapa:
+def mapL(L, f):
+    if not L:
+        return None
+    else:
+        return (f(head(L)), mapL(tail(L), f))
+# testar:	- fatoriais:	print(test("map-fac", mapL(py2ll([2, 3]), fact), (2, (6, None))))
+#  		 	- incrementos: 	print(test("map-inc-lam", mapL(py2ll([1, 2]), (lambda x: x+1)), (2, (3, None))))
+
+
+# função que recebe uma lista L e um inteiro N e produz uma lista de cada elemento de L aumentado de N:
+def incN(L, N):
+    return mapL(L, (lambda x: x + N))
+# testar:	- print(test("test-incN", incN(py2ll([2, 3, 5]), 5), (7, (8, (10, None)))))
+
+
+# experimento com closures:
+def make_inc_3(n):
+    return lambda x: x+n
+#testar:	- print((make_inc_3(5)(2)))
+
+
 # inicializador
 if __name__ == "__main__":
-    print(ll2py(mSort(py2ll([81, 4, 6, 8, 10]))))
+    print((make_inc_3(5)(2)))
