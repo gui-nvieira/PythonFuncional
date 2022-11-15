@@ -1,0 +1,491 @@
+ID,rodada,data,hora,dia,mandante,visitante,formacao_mandante,formacao_visitante,tecnico_mandante,tecnico_visitante,vencedor,arena,mandante_placar,visitante_placar,mandante_estado,visitante_estado,estado_vencedor
+7156,28,2021-01-06,19:15,Quarta-feira,Gremio,Bahia,4-2-3-1,4-1-4-1,L. Cavalcanti,L. Cavalcanti,Gremio,arena do gremio,2,1,RS,BA,RS
+7157,28,2021-01-06,19:15,Quarta-feira,Botafogo-RJ,Athletico-PR,4-3-3,4-4-2,P. Autuori de Mello,P. Autuori de Mello,Athletico-PR,estadio nilton santos,0,2,RJ,PR,PR
+7158,28,2021-01-06,20:31,Quarta-feira,Coritiba,Goias,4-3-3,5-3-2,G. Ramos da Silva,G. Ramos da Silva,Goias,couto pereira,1,2,PR,GO,GO
+7159,28,2021-01-06,20:30,Quarta-feira,Sport,Fortaleza,4-2-3-1,4-2-3-1,M. Oliveira Chamusca,M. Oliveira Chamusca,Sport,adelmar da costa carvalho,1,0,PE,CE,PE
+7160,28,2021-01-06,21:30,Quarta-feira,Flamengo,Fluminense,4-4-2,4-2-3-1,A. dos Santos Ferraz,A. dos Santos Ferraz,Fluminense,maracana,1,2,RJ,RJ,RJ
+7161,28,2021-01-06,21:30,Quarta-feira,Bragantino,Sao Paulo,4-1-4-1,4-4-2,F. Diniz Silva,F. Diniz Silva,Bragantino,nabizao,4,2,SP,SP,SP
+7162,28,2021-01-07,19:00,Quinta-feira,Ceara,Internacional,4-2-3-1,4-2-3-1,A. da Silva Braga,A. da Silva Braga,Internacional,arena castelao,0,2,CE,RS,RS
+7163,28,2021-01-07,21:00,Quinta-feira,Atletico-GO,Vasco,4-2-3-1,4-1-4-1,V. Luxemburgo da Silva,V. Luxemburgo da Silva,-,estadio antonio accioly,0,0,GO,RJ,-
+7164,28,2021-01-18,19:00,Segunda-feira,Palmeiras,Corinthians,4-1-4-1,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,Palmeiras,allianz parque,4,0,SP,SP,SP
+7165,28,2021-01-26,19:59,Terça-feira,Atletico-MG,Santos,4-2-3-1,4-1-4-1,A. Stival,A. Stival,Atletico-MG,mineirao,2,0,MG,SP,MG
+7166,29,2021-01-09,19:01,Sabado,Sport,Palmeiras,4-2-3-1,3-4-2-1,A. Moreira Ferreira,A. Moreira Ferreira,Palmeiras,adelmar da costa carvalho,0,1,PE,SP,SP
+7167,29,2021-01-09,19:00,Sabado,Coritiba,Athletico-PR,4-3-3,4-2-3-1,P. Autuori de Mello,P. Autuori de Mello,-,couto pereira,0,0,PR,PR,-
+7168,29,2021-01-09,21:00,Sabado,Fortaleza,Gremio,4-2-3-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,-,arena castelao,0,0,CE,RS,-
+7169,29,2021-01-10,16:00,Domingo,Sao Paulo,Santos,4-4-2,4-1-4-1,A. Stival,A. Stival,Santos,morumbi,0,1,SP,SP,SP
+7170,29,2021-01-10,16:00,Domingo,Flamengo,Ceara,4-4-2,4-2-3-1,A. Ferreira,A. Ferreira,Ceara,maracana,0,2,RJ,CE,CE
+7171,29,2021-01-10,18:14,Domingo,Atletico-GO,Bahia,4-2-3-1,4-1-4-1,L. Cavalcanti,L. Cavalcanti,-,estadio antonio accioly,1,1,GO,BA,-
+7172,29,2021-01-10,18:15,Domingo,Internacional,Goias,4-2-3-1,5-3-2,A. César,A. César,Internacional,estadio jose pinheiro borda,1,0,RS,GO,RS
+7173,29,2021-01-10,20:30,Domingo,Vasco,Botafogo-RJ,4-1-4-1,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Vasco,estadio vasco da gama,3,0,RJ,RJ,RJ
+7174,29,2021-01-11,20:01,Segunda-feira,Bragantino,Atletico-MG,4-3-3,4-3-3,J. Sampaoli Moya,J. Sampaoli Moya,-,nabizao,2,2,SP,MG,-
+7175,29,2021-01-13,21:30,Quarta-feira,Corinthians,Fluminense,4-2-3-1,4-3-3,A. dos Santos Ferraz,A. dos Santos Ferraz,Corinthians,neo quimica arena,5,0,SP,RJ,SP
+7176,30,2021-01-15,21:30,Sexta-feira,Palmeiras,Gremio,4-2-3-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,-,allianz parque,1,1,SP,RS,-
+7177,30,2021-01-16,19:00,Sabado,Fluminense,Sport,4-2-3-1,4-1-4-1,J. Ribeiro Ventura,J. Ribeiro Ventura,Fluminense,estadio nilton santos,1,0,RJ,PE,RJ
+7178,30,2021-01-16,20:59,Sabado,Vasco,Coritiba,4-1-4-1,4-3-3,J. Bertagnoli,J. Bertagnoli,Coritiba,estadio vasco da gama,0,1,RJ,PR,PR
+7179,30,2021-01-17,15:59,Domingo,Athletico-PR,Sao Paulo,4-2-3-1,4-4-2,F. Diniz Silva,F. Diniz Silva,-,estadio joaquim americo guimaraes,1,1,PR,SP,-
+7180,30,2021-01-17,15:59,Domingo,Santos,Botafogo-RJ,4-2-3-1,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Santos,estadio urbano caldeira,2,1,SP,RJ,SP
+7181,30,2021-01-17,18:15,Domingo,Atletico-MG,Atletico-GO,4-3-3,4-2-3-1,M. Ribeiro Cabo,M. Ribeiro Cabo,Atletico-MG,mineirao,3,1,MG,GO,MG
+7182,30,2021-01-17,20:30,Domingo,Ceara,Bragantino,4-2-3-1,4-3-3,M. Nogueira Barbieri,M. Nogueira Barbieri,Bragantino,arena castelao,1,2,CE,SP,SP
+7183,30,2021-01-17,20:31,Domingo,Internacional,Fortaleza,4-2-3-1,4-2-3-1,E. Alves Moreira,E. Alves Moreira,Internacional,estadio jose pinheiro borda,4,2,RS,CE,RS
+7184,30,2021-01-18,20:00,Segunda-feira,Goias,Flamengo,3-5-2,4-4-2,R. Ceni,R. Ceni,Flamengo,estadio da serrinha,0,3,GO,RJ,RJ
+7185,30,2021-01-28,18:59,Quinta-feira,Bahia,Corinthians,4-2-3-1,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,Bahia,itaipava arena fonte nova,2,1,BA,SP,BA
+7186,31,2021-01-20,17:00,Quarta-feira,Botafogo-RJ,Atletico-GO,4-2-3-1,4-2-3-1,M. Ribeiro Cabo,M. Ribeiro Cabo,Atletico-GO,estadio nilton santos,1,3,RJ,GO,GO
+7187,31,2021-01-20,17:59,Quarta-feira,Bahia,Athletico-PR,4-2-3-1,4-2-3-1,P. Autuori de Mello,P. Autuori de Mello,Bahia,itaipava arena fonte nova,1,0,BA,PR,BA
+7188,31,2021-01-20,19:15,Quarta-feira,Gremio,Atletico-MG,4-2-3-1,4-3-3,J. Sampaoli Moya,J. Sampaoli Moya,-,arena do gremio,1,1,RS,MG,-
+7189,31,2021-01-20,20:30,Quarta-feira,Coritiba,Fluminense,4-2-3-1,4-2-3-1,M. de Oliveira,M. de Oliveira,-,couto pereira,3,3,PR,RJ,-
+7190,31,2021-01-20,21:30,Quarta-feira,Sao Paulo,Internacional,4-4-2,4-1-4-1,A. da Silva Braga,A. da Silva Braga,Internacional,morumbi,1,5,SP,RS,RS
+7191,31,2021-01-20,21:29,Quarta-feira,Bragantino,Vasco,4-3-3,4-1-4-1,V. Luxemburgo da Silva,V. Luxemburgo da Silva,Bragantino,nabizao,4,1,SP,RJ,SP
+7192,31,2021-01-21,19:00,Quinta-feira,Flamengo,Palmeiras,4-4-2,4-1-4-1,A. Moreira Ferreira,A. Moreira Ferreira,Flamengo,estadio nacional de brasilia,2,0,RJ,SP,RJ
+7193,31,2021-01-21,19:00,Quinta-feira,Fortaleza,Santos,4-2-3-1,4-1-4-1,A. Stival,A. Stival,Fortaleza,arena castelao,2,0,CE,SP,CE
+7194,31,2021-01-21,19:00,Quinta-feira,Goias,Ceara,3-1-4-2,4-2-3-1,A. Ferreira,A. Ferreira,Ceara,estadio da serrinha,0,4,GO,CE,CE
+7195,31,2021-01-21,21:00,Quinta-feira,Corinthians,Sport,4-2-3-1,4-2-3-1,J. Ribeiro Ventura,J. Ribeiro Ventura,Corinthians,neo quimica arena,3,0,SP,PE,SP
+7196,32,2021-01-23,19:00,Sabado,Sao Paulo,Coritiba,4-4-2,4-3-3,J. Bertagnoli,J. Bertagnoli,-,morumbi,1,1,SP,PR,-
+7197,32,2021-01-23,21:00,Sabado,Vasco,Atletico-MG,4-2-3-1,3-1-4-2,J. Sampaoli Moya,J. Sampaoli Moya,Vasco,estadio vasco da gama,3,2,RJ,MG,RJ
+7198,32,2021-01-24,16:00,Domingo,Internacional,Gremio,4-1-4-1,4-1-4-1,Renato Gaúcho,Renato Gaúcho,Internacional,estadio jose pinheiro borda,2,1,RS,RS,RS
+7199,32,2021-01-24,16:01,Domingo,Athletico-PR,Flamengo,4-1-4-1,4-4-2,R. Ceni,R. Ceni,Athletico-PR,estadio joaquim americo guimaraes,2,1,PR,RJ,PR
+7200,32,2021-01-24,16:00,Domingo,Ceara,Palmeiras,4-2-3-1,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Ceara,arena castelao,2,1,CE,SP,CE
+7201,32,2021-01-24,18:16,Domingo,Atletico-GO,Fortaleza,4-2-3-1,4-2-3-1,E. Alves Moreira,E. Alves Moreira,Atletico-GO,estadio antonio accioly,2,0,GO,CE,GO
+7202,32,2021-01-24,18:15,Domingo,Sport,Bahia,4-2-3-1,4-2-3-1,L. Cavalcanti,L. Cavalcanti,Sport,adelmar da costa carvalho,2,0,PE,BA,PE
+7203,32,2021-01-24,18:15,Domingo,Santos,Goias,4-3-3,5-3-2,A. César,A. César,Goias,estadio urbano caldeira,3,4,SP,GO,GO
+7204,32,2021-01-24,20:30,Domingo,Fluminense,Botafogo-RJ,4-2-3-1,4-1-4-1,E. de Souza Barroca,E. de Souza Barroca,Fluminense,estadio vasco da gama,2,0,RJ,RJ,RJ
+7205,32,2021-01-25,20:00,Segunda-feira,Corinthians,Bragantino,4-2-3-1,4-4-2,M. Nogueira Barbieri,M. Nogueira Barbieri,Bragantino,neo quimica arena,0,2,SP,SP,SP
+7206,33,2021-01-31,16:00,Domingo,Vasco,Bahia,4-3-3,4-2-3-1,L. Cavalcanti,L. Cavalcanti,-,estadio vasco da gama,0,0,RJ,BA,-
+7207,33,2021-01-31,16:00,Domingo,Ceara,Athletico-PR,4-2-3-1,4-4-2,P. Autuori de Mello,P. Autuori de Mello,Athletico-PR,arena castelao,0,2,CE,PR,PR
+7208,33,2021-01-31,15:59,Domingo,Atletico-GO,Sao Paulo,4-2-3-1,4-4-2,F. Diniz Silva,F. Diniz Silva,Atletico-GO,estadio antonio accioly,2,1,GO,SP,GO
+7209,33,2021-01-31,16:01,Domingo,Coritiba,Gremio,4-1-4-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,-,couto pereira,1,1,PR,RS,-
+7210,33,2021-01-31,17:00,Domingo,Atletico-MG,Fortaleza,4-2-3-1,5-4-1,L. Porto Siqueira,L. Porto Siqueira,Atletico-MG,mineirao,2,0,MG,CE,MG
+7211,33,2021-01-31,18:15,Domingo,Internacional,Bragantino,4-1-4-1,4-3-3,M. Nogueira Barbieri,M. Nogueira Barbieri,Internacional,estadio jose pinheiro borda,2,1,RS,SP,RS
+7212,33,2021-01-31,20:30,Domingo,Fluminense,Goias,4-2-3-1,4-3-3,G. Ramos da Silva,G. Ramos da Silva,Fluminense,estadio nilton santos,3,0,RJ,GO,RJ
+7213,33,2021-02-01,19:59,Segunda-feira,Sport,Flamengo,4-2-3-1,4-4-2,R. Ceni,R. Ceni,Flamengo,adelmar da costa carvalho,0,3,PE,RJ,RJ
+7214,33,2021-02-02,16:00,Terça-feira,Palmeiras,Botafogo-RJ,4-2-3-1,4-4-2,E. de Souza Barroca,E. de Souza Barroca,-,allianz parque,1,1,SP,RJ,-
+7215,33,2021-02-17,18:59,Quarta-feira,Santos,Corinthians,4-3-3,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,Santos,estadio urbano caldeira,1,0,SP,SP,SP
+7216,34,2021-02-03,15:59,Quarta-feira,Gremio,Santos,4-2-3-1,4-1-4-1,A. Stival,A. Stival,-,arena do gremio,3,3,RS,SP,-
+7217,34,2021-02-03,19:15,Quarta-feira,Bragantino,Atletico-GO,4-4-2,4-2-3-1,M. Ribeiro Cabo,M. Ribeiro Cabo,Bragantino,nabizao,2,0,SP,GO,SP
+7218,34,2021-02-03,21:30,Quarta-feira,Corinthians,Ceara,4-2-3-1,4-2-3-1,A. Ferreira,A. Ferreira,Corinthians,neo quimica arena,2,1,SP,CE,SP
+7219,34,2021-02-03,21:30,Quarta-feira,Goias,Atletico-MG,5-3-2,3-5-2,J. Sampaoli Moya,J. Sampaoli Moya,Goias,estadio da serrinha,1,0,GO,MG,GO
+7220,34,2021-02-03,21:30,Quarta-feira,Bahia,Fluminense,4-1-4-1,4-2-3-1,M. de Oliveira,M. de Oliveira,Fluminense,itaipava arena fonte nova,0,1,BA,RJ,RJ
+7221,34,2021-02-04,18:30,Quinta-feira,Fortaleza,Coritiba,4-2-3-1,5-4-1,G. Morínigo,G. Morínigo,Fortaleza,arena castelao,3,1,CE,PR,CE
+7222,34,2021-02-04,20:59,Quinta-feira,Flamengo,Vasco,4-4-2,4-1-4-1,V. Luxemburgo da Silva,V. Luxemburgo da Silva,Flamengo,maracana,2,0,RJ,RJ,RJ
+7223,34,2021-02-04,21:00,Quinta-feira,Athletico-PR,Internacional,4-2-2-2,4-1-4-1,A. da Silva Braga,A. da Silva Braga,-,estadio joaquim americo guimaraes,0,0,PR,RS,-
+7224,34,2021-02-05,20:00,Sexta-feira,Botafogo-RJ,Sport,4-4-2,4-4-2,J. Ribeiro Ventura,J. Ribeiro Ventura,Sport,estadio nilton santos,0,1,RJ,PE,PE
+7225,34,2021-02-19,21:31,Sexta-feira,Sao Paulo,Palmeiras,4-4-2,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,-,morumbi,1,1,SP,SP,-
+7226,35,2021-02-06,19:00,Sabado,Bahia,Goias,4-3-3,3-5-2,A. César,A. César,-,itaipava arena fonte nova,3,3,BA,GO,-
+7227,35,2021-02-06,21:00,Sabado,Atletico-GO,Santos,4-2-3-1,4-2-3-1,A. Stival,A. Stival,-,estadio antonio accioly,1,1,GO,SP,-
+7228,35,2021-02-07,20:30,Domingo,Bragantino,Flamengo,4-3-3,4-4-2,R. Ceni,R. Ceni,-,nabizao,1,1,SP,RJ,-
+7229,35,2021-02-08,20:00,Segunda-feira,Botafogo-RJ,Gremio,4-4-2,4-2-3-1,Renato Gaúcho,Renato Gaúcho,Gremio,estadio nilton santos,2,5,RJ,RS,RS
+7230,35,2021-02-10,19:00,Quarta-feira,Internacional,Sport,4-1-4-1,3-4-2-1,J. Ribeiro Ventura,J. Ribeiro Ventura,Sport,estadio jose pinheiro borda,1,2,RS,PE,PE
+7231,35,2021-02-10,19:15,Quarta-feira,Fortaleza,Vasco,4-2-3-1,4-2-3-1,V. Luxemburgo da Silva,V. Luxemburgo da Silva,Fortaleza,arena castelao,3,0,CE,RJ,CE
+7232,35,2021-02-10,21:01,Quarta-feira,Sao Paulo,Ceara,4-4-2,4-2-3-1,A. Ferreira,A. Ferreira,-,morumbi,1,1,SP,CE,-
+7233,35,2021-02-10,21:30,Quarta-feira,Fluminense,Atletico-MG,4-2-3-1,3-4-3,J. Sampaoli Moya,J. Sampaoli Moya,-,maracana,0,0,RJ,MG,-
+7234,35,2021-02-10,21:30,Quarta-feira,Corinthians,Athletico-PR,4-2-3-1,4-2-2-2,P. Autuori de Mello,P. Autuori de Mello,-,neo quimica arena,3,3,SP,PR,-
+7235,35,2021-02-17,19:30,Quarta-feira,Coritiba,Palmeiras,4-5-1,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Coritiba,couto pereira,1,0,PR,SP,PR
+7236,36,2021-02-13,17:00,Sabado,Goias,Botafogo-RJ,4-4-2,3-5-2,L. Flávio,L. Flávio,Goias,estadio da serrinha,2,0,GO,RJ,GO
+7237,36,2021-02-13,19:00,Sabado,Atletico-MG,Bahia,3-4-3,5-3-2,L. Cavalcanti,L. Cavalcanti,-,mineirao,1,1,MG,BA,-
+7238,36,2021-02-13,19:00,Sabado,Santos,Coritiba,4-3-3,4-4-2,G. Morínigo,G. Morínigo,Santos,estadio urbano caldeira,2,0,SP,PR,SP
+7239,36,2021-02-14,16:00,Domingo,Flamengo,Corinthians,4-4-2,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,Flamengo,maracana,2,1,RJ,SP,RJ
+7240,36,2021-02-14,16:00,Domingo,Vasco,Internacional,4-2-3-1,4-1-4-1,A. da Silva Braga,A. da Silva Braga,Internacional,estadio vasco da gama,0,2,RJ,RS,RS
+7241,36,2021-02-14,18:14,Domingo,Athletico-PR,Atletico-GO,4-2-3-1,4-2-3-1,M. Ribeiro Cabo,M. Ribeiro Cabo,Athletico-PR,estadio joaquim americo guimaraes,2,1,PR,GO,PR
+7242,36,2021-02-14,18:15,Domingo,Palmeiras,Fortaleza,3-4-2-1,4-2-3-1,E. Alves Moreira,E. Alves Moreira,Palmeiras,allianz parque,3,0,SP,CE,SP
+7243,36,2021-02-14,20:29,Domingo,Gremio,Sao Paulo,4-2-3-1,4-4-2,M. Vizolli,M. Vizolli,Sao Paulo,arena do gremio,1,2,RS,SP,SP
+7244,36,2021-02-15,17:59,Segunda-feira,Ceara,Fluminense,4-2-3-1,4-2-3-1,M. de Oliveira,M. de Oliveira,Fluminense,arena castelao,1,3,CE,RJ,RJ
+7245,36,2021-02-15,20:00,Segunda-feira,Sport,Bragantino,3-4-2-1,4-1-4-1,M. Nogueira Barbieri,M. Nogueira Barbieri,-,adelmar da costa carvalho,0,0,PE,SP,-
+7246,37,2021-02-20,18:30,Sabado,Coritiba,Ceara,4-3-3,4-2-3-1,A. Ferreira,A. Ferreira,Ceara,couto pereira,0,2,PR,CE,CE
+7247,37,2021-02-20,21:00,Sabado,Fortaleza,Bahia,4-2-3-1,4-3-3,L. Cavalcanti,L. Cavalcanti,Bahia,arena castelao,0,4,CE,BA,BA
+7248,37,2021-02-21,16:01,Domingo,Sport,Atletico-MG,5-4-1,4-3-3,J. Sampaoli Moya,J. Sampaoli Moya,Atletico-MG,adelmar da costa carvalho,2,3,PE,MG,MG
+7249,37,2021-02-21,16:00,Domingo,Corinthians,Vasco,4-2-3-1,4-1-4-1,V. Luxemburgo da Silva,V. Luxemburgo da Silva,-,neo quimica arena,0,0,SP,RJ,-
+7250,37,2021-02-21,16:02,Domingo,Flamengo,Internacional,4-4-2,4-1-4-1,A. da Silva Braga,A. da Silva Braga,Flamengo,maracana,2,1,RJ,RS,RJ
+7251,37,2021-02-21,18:14,Domingo,Santos,Fluminense,4-3-3,4-2-3-1,M. de Oliveira,M. de Oliveira,-,estadio urbano caldeira,1,1,SP,RJ,-
+7252,37,2021-02-21,18:15,Domingo,Gremio,Athletico-PR,4-3-3,4-2-2-2,A. Cardoso de Oliveira,A. Cardoso de Oliveira,Gremio,arena do gremio,1,0,RS,PR,RS
+7253,37,2021-02-21,20:30,Domingo,Goias,Bragantino,3-5-2,4-3-3,M. Nogueira Barbieri,M. Nogueira Barbieri,-,estadio da serrinha,0,0,GO,SP,-
+7254,37,2021-02-22,18:00,Segunda-feira,Palmeiras,Atletico-GO,4-2-3-1,4-2-3-1,M. Ribeiro Cabo,M. Ribeiro Cabo,-,allianz parque,1,1,SP,GO,-
+7255,37,2021-02-22,19:59,Segunda-feira,Botafogo-RJ,Sao Paulo,4-4-2,4-4-2,M. Vizolli,M. Vizolli,Botafogo-RJ,estadio nilton santos,1,0,RJ,SP,RJ
+7256,38,2021-02-25,21:30,Quinta-feira,Bragantino,Gremio,4-3-3,4-2-3-1,Renato Gaúcho,Renato Gaúcho,Bragantino,nabizao,1,0,SP,RS,SP
+7257,38,2021-02-25,21:30,Quinta-feira,Bahia,Santos,3-4-2-1,4-4-1-1,M. Fernandes,M. Fernandes,Bahia,itaipava arena fonte nova,2,0,BA,SP,BA
+7258,38,2021-02-25,21:30,Quinta-feira,Athletico-PR,Sport,4-2-2-2,5-4-1,J. Ribeiro Ventura,J. Ribeiro Ventura,Athletico-PR,estadio joaquim americo guimaraes,2,0,PR,PE,PR
+7259,38,2021-02-25,21:30,Quinta-feira,Atletico-GO,Coritiba,4-2-3-1,5-4-1,J. Bertagnoli,J. Bertagnoli,Atletico-GO,estadio antonio accioly,3,1,GO,PR,GO
+7260,38,2021-02-25,21:31,Quinta-feira,Internacional,Corinthians,4-1-4-1,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,-,estadio jose pinheiro borda,0,0,RS,SP,-
+7261,38,2021-02-25,21:30,Quinta-feira,Ceara,Botafogo-RJ,4-2-3-1,4-2-3-1,L. Flávio,L. Flávio,Ceara,arena castelao,2,1,CE,RJ,CE
+7262,38,2021-02-25,21:31,Quinta-feira,Sao Paulo,Flamengo,3-5-2,4-4-2,R. Ceni,R. Ceni,Sao Paulo,morumbi,2,1,SP,RJ,SP
+7263,38,2021-02-25,21:30,Quinta-feira,Atletico-MG,Palmeiras,4-4-2,4-1-3-2,A. Moreira Ferreira,A. Moreira Ferreira,Atletico-MG,mineirao,2,0,MG,SP,MG
+7264,38,2021-02-25,21:29,Quinta-feira,Vasco,Goias,4-1-4-1,4-4-2,A. César,A. César,Vasco,estadio vasco da gama,3,2,RJ,GO,RJ
+7265,38,2021-02-25,21:30,Quinta-feira,Fluminense,Fortaleza,4-2-3-1,4-2-3-1,E. Alves Moreira,E. Alves Moreira,Fluminense,maracana,2,0,RJ,CE,RJ
+7266,1,2021-05-29,19:00,Sabado,Cuiaba,Juventude,4-3-3,4-2-3-1,E. de Barros,E. de Barros,-,arena pantanal,2,2,MT,RS,-
+7267,1,2021-05-29,20:00,Sabado,Bahia,Santos,4-3-3,4-3-3,F. Diniz Silva,F. Diniz Silva,Bahia,estadio de pituacu,3,0,BA,SP,BA
+7268,1,2021-05-29,21:00,Sabado,Sao Paulo,Fluminense,3-5-2,4-2-3-1,R. Machado Marques,R. Machado Marques,-,morumbi,0,0,SP,RJ,-
+7269,1,2021-05-30,11:01,Domingo,Atletico-MG,Fortaleza,4-2-3-1,3-5-2,J. Vojvoda,J. Vojvoda,Fortaleza,mineirao,1,2,MG,CE,CE
+7270,1,2021-05-30,16:00,Domingo,Flamengo,Palmeiras,4-2-3-1,3-5-2,A. Moreira Ferreira,A. Moreira Ferreira,Flamengo,maracana,1,0,RJ,SP,RJ
+7271,1,2021-05-30,15:59,Domingo,Ceara,Gremio,4-2-3-1,4-3-3,T. Retzalff Nunes,T. Retzalff Nunes,Ceara,arena castelao,3,2,CE,RS,CE
+7272,1,2021-05-30,18:15,Domingo,Corinthians,Atletico-GO,4-2-3-1,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Atletico-GO,neo quimica arena,0,1,SP,GO,GO
+7273,1,2021-05-30,18:14,Domingo,Chapecoense,Bragantino,4-3-2-1,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Bragantino,arena conda,0,3,SC,SP,SP
+7274,1,2021-05-30,18:16,Domingo,Athletico-PR,America-MG,4-2-3-1,4-1-4-1,L. Cirne Lima de Lorenzi,L. Cirne Lima de Lorenzi,Athletico-PR,estadio joaquim americo guimaraes,1,0,PR,MG,PR
+7275,1,2021-05-30,20:30,Domingo,Internacional,Sport,4-3-3,4-2-3-1,U. Louzer Filho,U. Louzer Filho,-,estadio jose pinheiro borda,2,2,RS,PE,-
+7276,2,2021-06-05,19:00,Sabado,Atletico-GO,Sao Paulo,4-2-3-1,3-5-2,J. Branda,J. Branda,Atletico-GO,estadio antonio accioly,2,0,GO,SP,GO
+7277,2,2021-06-05,20:59,Sabado,Santos,Ceara,4-2-3-1,4-4-2,A. Ferreira,A. Ferreira,Santos,estadio urbano caldeira,3,1,SP,CE,SP
+7278,2,2021-06-05,20:59,Sabado,Bragantino,Bahia,4-4-2,4-3-3,L. Cavalcanti,L. Cavalcanti,-,nabizao,3,3,SP,BA,-
+7279,2,2021-06-06,11:00,Domingo,Fluminense,Cuiaba,4-1-4-1,4-2-3-1,L. Iubel,L. Iubel,Fluminense,estadio vasco da gama,1,0,RJ,MT,RJ
+7280,2,2021-06-06,16:00,Domingo,America-MG,Corinthians,4-4-1-1,4-1-4-1,S. Campos Junior,S. Campos Junior,Corinthians,estadio raimundo sampaio,0,1,MG,SP,SP
+7281,2,2021-06-06,16:00,Domingo,Fortaleza,Internacional,3-4-1-2,4-3-3,M. Ramírez,M. Ramírez,Fortaleza,arena castelao,5,1,CE,RS,CE
+7282,2,2021-06-06,18:15,Domingo,Juventude,Athletico-PR,4-2-3-1,4-4-2,A. Cardoso de Oliveira,A. Cardoso de Oliveira,Athletico-PR,alfredo jaconi,0,3,RS,PR,PR
+7283,2,2021-06-06,18:14,Domingo,Palmeiras,Chapecoense,4-3-3,4-3-3,J. Ribeiro Ventura,J. Ribeiro Ventura,Palmeiras,allianz parque,3,1,SP,SC,SP
+7284,2,2021-06-06,20:29,Domingo,Sport,Atletico-MG,4-2-3-1,4-2-3-1,A. Stival,A. Stival,Atletico-MG,adelmar da costa carvalho,0,1,PE,MG,MG
+7285,2,2021-11-11,21:01,Quinta-feira,Gremio,Flamengo,4-2-3-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,-,arena do gremio,2,2,RS,RJ,-
+7286,3,2021-06-12,19:00,Sabado,Santos,Juventude,4-3-3,4-4-2,M. dos Santos Gonçalves,M. dos Santos Gonçalves,-,estadio urbano caldeira,0,0,SP,RS,-
+7287,3,2021-06-12,19:00,Sabado,Palmeiras,Corinthians,4-3-3,4-1-4-1,S. Campos Junior,S. Campos Junior,-,allianz parque,1,1,SP,SP,-
+7288,3,2021-06-13,15:58,Domingo,Atletico-MG,Sao Paulo,4-2-3-1,3-5-2,H. Crespo,H. Crespo,Atletico-MG,mineirao,1,0,MG,SP,MG
+7289,3,2021-06-13,16:00,Domingo,Gremio,Athletico-PR,4-2-3-1,5-4-1,A. Cardoso de Oliveira,A. Cardoso de Oliveira,Athletico-PR,arena do gremio,0,1,RS,PR,PR
+7290,3,2021-06-13,16:00,Domingo,Flamengo,America-MG,4-2-3-1,4-1-4-1,L. Cirne Lima de Lorenzi,L. Cirne Lima de Lorenzi,Flamengo,maracana,2,0,RJ,MG,RJ
+7291,3,2021-06-13,20:30,Domingo,Bahia,Internacional,4-3-3,4-3-3,O. Loss,O. Loss,Internacional,estadio de pituacu,0,1,BA,RS,RS
+7292,3,2021-06-13,20:29,Domingo,Fortaleza,Sport,3-4-1-2,4-2-3-1,U. Louzer Filho,U. Louzer Filho,Fortaleza,arena castelao,1,0,CE,PE,CE
+7293,3,2021-06-13,20:30,Domingo,Bragantino,Fluminense,4-2-3-1,4-2-3-1,R. Machado Marques,R. Machado Marques,-,nabizao,2,2,SP,RJ,-
+7294,3,2021-06-13,20:29,Domingo,Chapecoense,Ceara,4-2-3-1,4-2-3-1,A. Ferreira,A. Ferreira,-,arena conda,0,0,SC,CE,-
+7295,3,2021-07-21,19:00,Quarta-feira,Cuiaba,Atletico-GO,4-4-2,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Cuiaba,arena pantanal,2,1,MT,GO,MT
+7296,4,2021-06-16,19:00,Quarta-feira,Internacional,Atletico-MG,4-2-3-1,4-1-4-1,A. Stival,A. Stival,Atletico-MG,estadio jose pinheiro borda,0,1,RS,MG,MG
+7297,4,2021-06-16,19:00,Quarta-feira,Sao Paulo,Chapecoense,4-2-3-1,4-2-3-1,J. Ribeiro Ventura,J. Ribeiro Ventura,-,morumbi,1,1,SP,SC,-
+7298,4,2021-06-16,20:30,Quarta-feira,Corinthians,Bragantino,4-2-3-1,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Bragantino,neo quimica arena,1,2,SP,SP,SP
+7299,4,2021-06-16,21:30,Quarta-feira,Juventude,Palmeiras,4-1-2-1-2,4-1-4-1,A. Moreira Ferreira,A. Moreira Ferreira,Palmeiras,alfredo jaconi,0,3,RS,SP,SP
+7300,4,2021-06-17,16:00,Quinta-feira,America-MG,Cuiaba,4-1-4-1,4-3-3,L. Iubel,L. Iubel,-,estadio raimundo sampaio,0,0,MG,MT,-
+7301,4,2021-06-17,15:59,Quinta-feira,Ceara,Bahia,4-2-3-1,4-3-3,L. Cavalcanti,L. Cavalcanti,Bahia,arena castelao,1,2,CE,BA,BA
+7302,4,2021-06-17,19:01,Quinta-feira,Sport,Gremio,5-4-1,4-2-3-1,T. Retzalff Nunes,T. Retzalff Nunes,Sport,adelmar da costa carvalho,1,0,PE,RS,PE
+7303,4,2021-06-17,19:00,Quinta-feira,Atletico-GO,Fortaleza,4-2-3-1,3-4-1-2,J. Vojvoda,J. Vojvoda,-,estadio antonio accioly,0,0,GO,CE,-
+7304,4,2021-06-17,19:00,Quinta-feira,Fluminense,Santos,4-3-3,4-2-3-1,F. Diniz Silva,F. Diniz Silva,Fluminense,maracana,1,0,RJ,SP,RJ
+7305,4,2021-11-02,16:00,Terça-feira,Athletico-PR,Flamengo,3-4-3,4-4-2,Renato Gaúcho,Renato Gaúcho,-,estadio joaquim americo guimaraes,2,2,PR,RJ,-
+7306,5,2021-06-19,21:00,Sabado,Flamengo,Bragantino,4-2-3-1,4-2-3-1,C. Maldonado,C. Maldonado,Bragantino,maracana,2,3,RJ,SP,SP
+7307,5,2021-06-20,11:01,Domingo,Palmeiras,America-MG,4-1-4-1,4-2-3-1,C. de Almeida,C. de Almeida,Palmeiras,allianz parque,2,1,SP,MG,SP
+7308,5,2021-06-20,15:59,Domingo,Bahia,Corinthians,4-3-3,4-1-4-1,S. Campos Junior,S. Campos Junior,-,estadio de pituacu,0,0,BA,SP,-
+7309,5,2021-06-20,16:00,Domingo,Internacional,Ceara,4-4-2,4-2-3-1,A. Ferreira,A. Ferreira,-,estadio jose pinheiro borda,1,1,RS,CE,-
+7310,5,2021-06-20,18:15,Domingo,Fortaleza,Fluminense,3-4-1-2,4-2-3-1,R. Machado Marques,R. Machado Marques,-,arena castelao,1,1,CE,RJ,-
+7311,5,2021-06-20,18:14,Domingo,Athletico-PR,Atletico-GO,3-4-2-1,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Athletico-PR,estadio joaquim americo guimaraes,2,1,PR,GO,PR
+7312,5,2021-06-20,18:15,Domingo,Santos,Sao Paulo,4-2-3-1,3-1-4-2,H. Crespo,H. Crespo,Santos,estadio urbano caldeira,2,0,SP,SP,SP
+7313,5,2021-06-20,20:32,Domingo,Juventude,Sport,4-4-2,5-4-1,U. Louzer Filho,U. Louzer Filho,Juventude,alfredo jaconi,1,0,RS,PE,RS
+7314,5,2021-06-21,20:00,Segunda-feira,Atletico-MG,Chapecoense,4-3-3,4-4-2,J. Ribeiro Ventura,J. Ribeiro Ventura,-,mineirao,1,1,MG,SC,-
+7315,5,2021-08-18,18:59,Quarta-feira,Cuiaba,Gremio,4-4-2,4-2-3-1,L. Scolari,L. Scolari,Gremio,arena pantanal,0,1,MT,RS,RS
+7316,6,2021-06-23,19:01,Quarta-feira,Atletico-GO,Fluminense,4-2-3-1,4-2-3-1,R. Machado Marques,R. Machado Marques,Atletico-GO,estadio antonio accioly,1,0,GO,RJ,GO
+7317,6,2021-06-23,19:00,Quarta-feira,Sao Paulo,Cuiaba,3-5-2,4-5-1,L. Iubel,L. Iubel,-,morumbi,2,2,SP,MT,-
+7318,6,2021-06-23,19:00,Quarta-feira,Flamengo,Fortaleza,4-4-2,3-4-1-2,J. Vojvoda,J. Vojvoda,Flamengo,maracana,2,1,RJ,CE,RJ
+7319,6,2021-06-23,19:00,Quarta-feira,Bragantino,Palmeiras,4-2-3-1,3-5-2,A. Moreira Ferreira,A. Moreira Ferreira,Bragantino,nabizao,3,1,SP,SP,SP
+7320,6,2021-06-24,16:00,Quinta-feira,America-MG,Juventude,4-2-3-1,4-2-3-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,-,estadio raimundo sampaio,1,1,MG,RS,-
+7321,6,2021-06-24,19:00,Quinta-feira,Chapecoense,Internacional,4-3-1-2,4-2-3-1,D. Aguirre Camblor,D. Aguirre Camblor,Internacional,arena conda,1,2,SC,RS,RS
+7322,6,2021-06-24,18:59,Quinta-feira,Corinthians,Sport,4-3-3,5-4-1,U. Louzer Filho,U. Louzer Filho,Corinthians,neo quimica arena,2,1,SP,PE,SP
+7323,6,2021-06-24,19:00,Quinta-feira,Ceara,Atletico-MG,4-2-3-1,4-1-4-1,A. Stival,A. Stival,Ceara,arena castelao,2,1,CE,MG,CE
+7324,6,2021-06-24,21:30,Quinta-feira,Bahia,Athletico-PR,4-3-3,5-4-1,A. Cardoso de Oliveira,A. Cardoso de Oliveira,Bahia,estadio de pituacu,2,1,BA,PR,BA
+7325,6,2021-06-24,21:29,Quinta-feira,Gremio,Santos,4-2-3-1,4-2-3-1,F. Diniz Silva,F. Diniz Silva,-,arena do gremio,2,2,RS,SP,-
+7326,7,2021-06-27,11:02,Domingo,Juventude,Flamengo,4-3-3,4-4-2,R. Ceni,R. Ceni,Juventude,alfredo jaconi,1,0,RS,RJ,RS
+7327,7,2021-06-27,16:00,Domingo,Fluminense,Corinthians,4-2-3-1,4-2-3-1,S. Campos Junior,S. Campos Junior,-,estadio vasco da gama,1,1,RJ,SP,-
+7328,7,2021-06-27,20:00,Domingo,Palmeiras,Bahia,4-2-3-1,4-2-3-1,L. Cavalcanti,L. Cavalcanti,Palmeiras,allianz parque,3,2,SP,BA,SP
+7329,7,2021-06-27,19:59,Domingo,Athletico-PR,Chapecoense,5-4-1,3-4-3,J. Ribeiro Ventura,J. Ribeiro Ventura,-,estadio joaquim americo guimaraes,2,2,PR,SC,-
+7330,7,2021-06-27,19:59,Domingo,Gremio,Fortaleza,4-3-3,3-4-1-2,J. Vojvoda,J. Vojvoda,-,arena do gremio,0,0,RS,CE,-
+7331,7,2021-06-27,20:30,Domingo,Santos,Atletico-MG,4-3-3,4-1-4-1,A. Stival,A. Stival,Santos,estadio urbano caldeira,2,0,SP,MG,SP
+7332,7,2021-06-27,20:30,Domingo,America-MG,Internacional,4-1-4-1,4-3-3,D. Aguirre Camblor,D. Aguirre Camblor,-,estadio raimundo sampaio,1,1,MG,RS,-
+7333,7,2021-06-27,20:32,Domingo,Sport,Cuiaba,4-4-2,4-1-4-1,L. Iubel,L. Iubel,-,adelmar da costa carvalho,0,0,PE,MT,-
+7334,7,2021-06-27,20:30,Domingo,Ceara,Sao Paulo,4-2-3-1,3-1-4-2,J. Branda,J. Branda,-,arena castelao,1,1,CE,SP,-
+7335,7,2021-06-28,20:00,Segunda-feira,Atletico-GO,Bragantino,4-2-3-1,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Bragantino,estadio antonio accioly,0,1,GO,SP,SP
+7336,8,2021-06-30,16:00,Quarta-feira,Fluminense,Athletico-PR,4-2-3-1,4-2-3-1,B. Lazaroni,B. Lazaroni,Athletico-PR,estadio municipal general raulino de oliveira,1,4,RJ,PR,PR
+7337,8,2021-06-30,16:01,Quarta-feira,Fortaleza,Chapecoense,3-4-1-2,5-4-1,J. Ribeiro Ventura,J. Ribeiro Ventura,Fortaleza,arena castelao,3,2,CE,SC,CE
+7338,8,2021-06-30,19:00,Quarta-feira,Internacional,Palmeiras,4-2-3-1,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Palmeiras,estadio jose pinheiro borda,1,2,RS,SP,SP
+7339,8,2021-06-30,19:00,Quarta-feira,Bahia,America-MG,4-1-4-1,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,America-MG,estadio de pituacu,3,4,BA,MG,MG
+7340,8,2021-06-30,20:30,Quarta-feira,Santos,Sport,4-3-3,4-2-3-1,U. Louzer Filho,U. Louzer Filho,-,estadio urbano caldeira,0,0,SP,PE,-
+7341,8,2021-06-30,21:30,Quarta-feira,Corinthians,Sao Paulo,4-2-3-1,3-1-4-2,J. Branda,J. Branda,-,neo quimica arena,0,0,SP,SP,-
+7342,8,2021-06-30,21:30,Quarta-feira,Juventude,Gremio,4-2-3-1,4-3-3,T. Retzalff Nunes,T. Retzalff Nunes,Juventude,alfredo jaconi,2,0,RS,RS,RS
+7343,8,2021-07-01,16:00,Quinta-feira,Bragantino,Ceara,4-2-3-1,4-2-3-1,A. Ferreira,A. Ferreira,-,nabizao,0,0,SP,CE,-
+7344,8,2021-07-01,19:00,Quinta-feira,Atletico-MG,Atletico-GO,4-3-3,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Atletico-MG,mineirao,4,1,MG,GO,MG
+7345,8,2021-07-01,20:00,Quinta-feira,Cuiaba,Flamengo,4-5-1,4-4-2,R. Ceni,R. Ceni,Flamengo,arena pantanal,0,2,MT,RJ,RJ
+7346,9,2021-07-03,19:00,Sabado,Athletico-PR,Fortaleza,4-2-3-1,3-4-3,J. Vojvoda,J. Vojvoda,Athletico-PR,estadio joaquim americo guimaraes,2,1,PR,CE,PR
+7347,9,2021-07-03,18:59,Sabado,America-MG,Santos,4-2-2-2,4-2-3-1,F. Diniz Silva,F. Diniz Silva,America-MG,estadio raimundo sampaio,2,0,MG,SP,MG
+7348,9,2021-07-03,21:00,Sabado,Corinthians,Internacional,4-2-3-1,4-2-3-1,D. Aguirre Camblor,D. Aguirre Camblor,-,neo quimica arena,1,1,SP,RS,-
+7349,9,2021-07-04,11:02,Domingo,Chapecoense,Bahia,4-1-4-1,4-2-3-1,L. Cavalcanti,L. Cavalcanti,Bahia,arena conda,0,2,SC,BA,BA
+7350,9,2021-07-04,16:01,Domingo,Flamengo,Fluminense,4-4-2,4-2-3-1,R. Machado Marques,R. Machado Marques,Fluminense,neo quimica arena,0,1,RJ,RJ,RJ
+7351,9,2021-07-04,16:01,Domingo,Sport,Palmeiras,4-2-3-1,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Palmeiras,adelmar da costa carvalho,0,1,PE,SP,SP
+7352,9,2021-07-04,18:15,Domingo,Ceara,Juventude,4-2-3-1,4-2-3-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,Ceara,arena castelao,2,0,CE,RS,CE
+7353,9,2021-07-04,18:14,Domingo,Sao Paulo,Bragantino,3-4-1-2,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Bragantino,morumbi,1,2,SP,SP,SP
+7354,9,2021-07-04,18:15,Domingo,Cuiaba,Atletico-MG,4-4-2,4-2-3-1,A. Stival,A. Stival,Atletico-MG,arena pantanal,0,1,MT,MG,MG
+7355,9,2021-07-04,20:30,Domingo,Gremio,Atletico-GO,4-2-3-1,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Atletico-GO,arena do gremio,0,1,RS,GO,GO
+7356,10,2021-07-06,19:28,Terça-feira,Santos,Athletico-PR,4-1-4-1,3-4-2-1,A. Cardoso de Oliveira,A. Cardoso de Oliveira,Santos,estadio urbano caldeira,2,1,SP,PR,SP
+7357,10,2021-07-07,18:00,Quarta-feira,Bahia,Juventude,4-3-3,4-1-4-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,Bahia,estadio de pituacu,1,0,BA,RS,BA
+7358,10,2021-07-07,18:01,Quarta-feira,Bragantino,Cuiaba,4-2-3-1,4-2-3-1,J. de Amorim Campos,J. de Amorim Campos,-,nabizao,1,1,SP,MT,-
+7359,10,2021-07-07,18:02,Quarta-feira,Fortaleza,America-MG,3-4-1-2,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,Fortaleza,arena castelao,4,0,CE,MG,CE
+7360,10,2021-07-07,18:59,Quarta-feira,Palmeiras,Gremio,4-2-3-1,4-2-3-1,T. Gomes Pacheco,T. Gomes Pacheco,Palmeiras,allianz parque,2,0,SP,RS,SP
+7361,10,2021-07-07,19:00,Quarta-feira,Atletico-MG,Flamengo,3-1-4-2,4-1-2-1-2,R. Ceni,R. Ceni,Atletico-MG,mineirao,2,1,MG,RJ,MG
+7362,10,2021-07-07,19:15,Quarta-feira,Atletico-GO,Sport,4-3-3,4-2-3-1,U. Louzer Filho,U. Louzer Filho,-,estadio antonio accioly,1,1,GO,PE,-
+7363,10,2021-07-07,21:30,Quarta-feira,Internacional,Sao Paulo,4-1-4-1,3-1-4-2,H. Crespo,H. Crespo,Sao Paulo,estadio jose pinheiro borda,0,2,RS,SP,SP
+7364,10,2021-07-07,21:30,Quarta-feira,Fluminense,Ceara,4-2-3-1,4-2-3-1,A. Ferreira,A. Ferreira,-,estadio vasco da gama,0,0,RJ,CE,-
+7365,10,2021-07-08,21:00,Quinta-feira,Chapecoense,Corinthians,4-3-3,4-2-3-1,S. Campos Junior,S. Campos Junior,Corinthians,arena conda,0,1,SC,SP,SP
+7366,11,2021-07-10,16:30,Sabado,Palmeiras,Santos,4-2-2-2,4-2-3-1,F. Diniz Silva,F. Diniz Silva,Palmeiras,allianz parque,3,2,SP,SP,SP
+7367,11,2021-07-10,16:30,Sabado,Gremio,Internacional,4-2-3-1,4-1-4-1,D. Aguirre Camblor,D. Aguirre Camblor,-,arena do gremio,0,0,RS,RS,-
+7368,11,2021-07-10,17:29,Sabado,Athletico-PR,Bragantino,4-2-3-1,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,-,estadio joaquim americo guimaraes,2,2,PR,SP,-
+7369,11,2021-07-10,19:01,Sabado,Sport,Fluminense,4-1-4-1,4-2-3-1,R. Machado Marques,R. Machado Marques,Fluminense,adelmar da costa carvalho,1,2,PE,RJ,RJ
+7370,11,2021-07-10,19:00,Sabado,Sao Paulo,Bahia,3-1-4-2,4-3-3,L. Cavalcanti,L. Cavalcanti,Sao Paulo,morumbi,1,0,SP,BA,SP
+7371,11,2021-07-10,19:01,Sabado,America-MG,Atletico-MG,3-4-1-2,4-3-3,A. Stival,A. Stival,Atletico-MG,estadio raimundo sampaio,0,1,MG,MG,MG
+7372,11,2021-07-11,11:01,Domingo,Juventude,Atletico-GO,4-1-2-1-2,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,-,alfredo jaconi,1,1,RS,GO,-
+7373,11,2021-07-11,18:15,Domingo,Cuiaba,Ceara,4-4-2,4-2-3-1,A. Ferreira,A. Ferreira,-,arena pantanal,2,2,MT,CE,-
+7374,11,2021-07-11,18:15,Domingo,Flamengo,Chapecoense,4-2-2-2,3-4-3,J. Ribeiro Ventura,J. Ribeiro Ventura,Flamengo,maracana,2,1,RJ,SC,RJ
+7375,11,2021-07-11,20:30,Domingo,Fortaleza,Corinthians,3-4-1-2,4-2-3-1,S. Campos Junior,S. Campos Junior,Fortaleza,arena castelao,1,0,CE,SP,CE
+7376,12,2021-07-17,17:00,Sabado,Ceara,Athletico-PR,4-2-3-1,4-2-3-1,A. Cardoso de Oliveira,A. Cardoso de Oliveira,Ceara,arena castelao,1,0,CE,PR,CE
+7377,12,2021-07-17,17:00,Sabado,Sao Paulo,Fortaleza,3-1-4-2,3-4-1-2,J. Vojvoda,J. Vojvoda,Fortaleza,morumbi,0,1,SP,CE,CE
+7378,12,2021-07-17,19:00,Sabado,Corinthians,Atletico-MG,4-3-3,4-2-3-1,A. Stival,A. Stival,Atletico-MG,neo quimica arena,1,2,SP,MG,MG
+7379,12,2021-07-17,21:00,Sabado,Fluminense,Gremio,4-2-3-1,4-4-2,L. Scolari,L. Scolari,Gremio,maracana,0,1,RJ,RS,RS
+7380,12,2021-07-18,11:03,Domingo,Chapecoense,Cuiaba,3-4-3,4-2-3-1,J. de Amorim Campos,J. de Amorim Campos,Cuiaba,arena conda,2,3,SC,MT,MT
+7381,12,2021-07-18,16:00,Domingo,Atletico-GO,Palmeiras,4-2-3-1,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Palmeiras,estadio do governo do estado de goias serra dourada,0,3,GO,SP,SP
+7382,12,2021-07-18,18:13,Domingo,Bahia,Flamengo,4-2-3-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,Flamengo,itaipava arena fonte nova,0,5,BA,RJ,RJ
+7383,12,2021-07-18,20:31,Domingo,Internacional,Juventude,4-3-3,4-2-3-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,Internacional,estadio jose pinheiro borda,1,0,RS,RS,RS
+7384,12,2021-07-18,20:29,Domingo,Bragantino,Santos,4-2-3-1,4-3-3,F. Diniz Silva,F. Diniz Silva,-,nabizao,2,2,SP,SP,-
+7385,12,2021-07-19,20:00,Segunda-feira,America-MG,Sport,3-4-1-2,4-2-3-1,U. Louzer Filho,U. Louzer Filho,Sport,estadio raimundo sampaio,0,1,MG,PE,PE
+7386,13,2021-07-24,17:00,Sabado,Gremio,America-MG,3-5-2,3-4-1-2,V. Carmo Mancini,V. Carmo Mancini,-,arena do gremio,1,1,RS,MG,-
+7387,13,2021-07-24,19:00,Sabado,Palmeiras,Fluminense,4-2-3-1,4-2-3-1,R. Machado Marques,R. Machado Marques,Palmeiras,allianz parque,1,0,SP,RJ,SP
+7388,13,2021-07-25,11:00,Domingo,Atletico-MG,Bahia,4-2-3-1,4-3-3,L. Cavalcanti,L. Cavalcanti,Atletico-MG,mineirao,3,0,MG,BA,MG
+7389,13,2021-07-25,16:01,Domingo,Fortaleza,Bragantino,3-4-1-2,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Fortaleza,arena castelao,1,0,CE,SP,CE
+7390,13,2021-07-25,16:00,Domingo,Flamengo,Sao Paulo,4-2-3-1,3-5-1-1,H. Crespo,H. Crespo,Flamengo,maracana,5,1,RJ,SP,RJ
+7391,13,2021-07-25,18:15,Domingo,Santos,Atletico-GO,4-2-3-1,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Atletico-GO,estadio urbano caldeira,0,1,SP,GO,GO
+7392,13,2021-07-25,18:15,Domingo,Athletico-PR,Internacional,4-2-3-1,4-1-4-1,D. Aguirre Camblor,D. Aguirre Camblor,Athletico-PR,estadio joaquim americo guimaraes,2,1,PR,RS,PR
+7393,13,2021-07-25,20:30,Domingo,Sport,Ceara,4-2-3-1,4-2-3-1,A. Ferreira,A. Ferreira,-,adelmar da costa carvalho,0,0,PE,CE,-
+7394,13,2021-07-26,18:00,Segunda-feira,Juventude,Chapecoense,4-3-3,4-3-3,J. Ribeiro Ventura,J. Ribeiro Ventura,Juventude,alfredo jaconi,1,0,RS,SC,RS
+7395,13,2021-07-26,19:59,Segunda-feira,Cuiaba,Corinthians,4-4-2,4-3-3,S. Campos Junior,S. Campos Junior,Corinthians,arena pantanal,1,2,MT,SP,SP
+7396,14,2021-07-31,19:00,Sabado,Sao Paulo,Palmeiras,4-4-2,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,-,morumbi,0,0,SP,SP,-
+7397,14,2021-07-31,20:00,Sabado,Internacional,Cuiaba,4-4-2,4-4-1-1,J. de Amorim Campos,J. de Amorim Campos,-,estadio jose pinheiro borda,0,0,RS,MT,-
+7398,14,2021-07-31,21:00,Sabado,Bragantino,Gremio,4-2-3-1,4-2-3-1,L. Scolari,L. Scolari,Bragantino,nabizao,1,0,SP,RS,SP
+7399,14,2021-08-01,16:00,Domingo,Corinthians,Flamengo,4-1-4-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,Flamengo,neo quimica arena,1,3,SP,RJ,RJ
+7400,14,2021-08-01,16:00,Domingo,Atletico-MG,Athletico-PR,4-2-3-1,4-2-3-1,A. Cardoso de Oliveira,A. Cardoso de Oliveira,Atletico-MG,mineirao,2,0,MG,PR,MG
+7401,14,2021-08-01,18:15,Domingo,Chapecoense,Santos,4-2-3-1,4-1-4-1,F. Diniz Silva,F. Diniz Silva,Santos,arena conda,0,1,SC,SP,SP
+7402,14,2021-08-01,18:15,Domingo,Bahia,Sport,4-3-3,4-2-3-1,U. Louzer Filho,U. Louzer Filho,Sport,estadio de pituacu,0,1,BA,PE,PE
+7403,14,2021-08-01,20:28,Domingo,Atletico-GO,America-MG,4-2-3-1,3-4-2-1,V. Carmo Mancini,V. Carmo Mancini,-,estadio antonio accioly,1,1,GO,MG,-
+7404,14,2021-08-01,20:30,Domingo,Ceara,Fortaleza,4-3-3,3-4-1-2,J. Vojvoda,J. Vojvoda,Ceara,arena castelao,3,1,CE,CE,CE
+7405,14,2021-09-02,19:00,Quinta-feira,Fluminense,Juventude,4-3-3,4-3-3,M. dos Santos Gonçalves,M. dos Santos Gonçalves,-,maracana,1,1,RJ,RS,-
+7406,15,2021-08-06,18:59,Sexta-feira,Sport,Bragantino,4-2-3-1,4-1-4-1,C. Maldonado,C. Maldonado,-,adelmar da costa carvalho,0,0,PE,SP,-
+7407,15,2021-08-07,17:59,Sabado,Athletico-PR,Sao Paulo,4-2-3-1,4-2-3-1,H. Crespo,H. Crespo,Sao Paulo,estadio joaquim americo guimaraes,1,2,PR,SP,SP
+7408,15,2021-08-07,21:00,Sabado,Palmeiras,Fortaleza,4-2-3-1,3-5-2,J. Vojvoda,J. Vojvoda,Fortaleza,allianz parque,2,3,SP,CE,CE
+7409,15,2021-08-07,21:00,Sabado,Cuiaba,Bahia,4-2-3-1,4-1-3-2,L. Cavalcanti,L. Cavalcanti,-,arena pantanal,1,1,MT,BA,-
+7410,15,2021-08-08,16:00,Domingo,Juventude,Atletico-MG,4-2-3-1,4-2-3-1,A. Stival,A. Stival,Atletico-MG,alfredo jaconi,1,2,RS,MG,MG
+7411,15,2021-08-08,16:00,Domingo,America-MG,Fluminense,4-2-3-1,4-2-3-1,R. Machado Marques,R. Machado Marques,America-MG,estadio raimundo sampaio,1,0,MG,RJ,MG
+7412,15,2021-08-08,15:59,Domingo,Santos,Corinthians,4-3-3,4-1-4-1,S. Campos Junior,S. Campos Junior,-,estadio urbano caldeira,0,0,SP,SP,-
+7413,15,2021-08-08,18:15,Domingo,Ceara,Atletico-GO,4-2-3-1,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,-,arena castelao,0,0,CE,GO,-
+7414,15,2021-08-08,18:15,Domingo,Flamengo,Internacional,4-2-2-2,4-2-3-1,D. Aguirre Camblor,D. Aguirre Camblor,Internacional,maracana,0,4,RJ,RS,RS
+7415,15,2021-08-09,19:59,Segunda-feira,Gremio,Chapecoense,4-2-3-1,4-4-2,L. de Oliveira Preto,L. de Oliveira Preto,Gremio,arena do gremio,2,1,RS,SC,RS
+7416,16,2021-08-14,17:02,Sabado,Bragantino,Juventude,4-3-3,4-2-3-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,Juventude,nabizao,1,2,SP,RS,RS
+7417,16,2021-08-14,19:00,Sabado,Atletico-MG,Palmeiras,4-2-3-1,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Atletico-MG,mineirao,2,0,MG,SP,MG
+7418,16,2021-08-14,21:01,Sabado,Sao Paulo,Gremio,3-4-1-2,4-2-3-1,L. Scolari,L. Scolari,Sao Paulo,morumbi,2,1,SP,RS,SP
+7419,16,2021-08-15,16:00,Domingo,Flamengo,Sport,4-4-2,4-2-3-1,U. Louzer Filho,U. Louzer Filho,Flamengo,estadio municipal general raulino de oliveira,2,0,RJ,PE,RJ
+7420,16,2021-08-15,16:00,Domingo,Corinthians,Ceara,4-3-3,4-2-3-1,A. Ferreira,A. Ferreira,Corinthians,neo quimica arena,3,1,SP,CE,SP
+7421,16,2021-08-15,18:15,Domingo,Bahia,Atletico-GO,4-4-2,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Atletico-GO,estadio de pituacu,1,2,BA,GO,GO
+7422,16,2021-08-15,18:14,Domingo,Cuiaba,Athletico-PR,4-4-2,4-2-3-1,A. Cardoso de Oliveira,A. Cardoso de Oliveira,Cuiaba,arena pantanal,1,0,MT,PR,MT
+7423,16,2021-08-15,18:15,Domingo,Fortaleza,Santos,3-4-1-2,4-2-3-1,E. Zuma,E. Zuma,-,arena castelao,1,1,CE,SP,-
+7424,16,2021-08-15,20:30,Domingo,Internacional,Fluminense,4-4-2,4-3-1-2,R. Machado Marques,R. Machado Marques,Internacional,estadio jose pinheiro borda,4,2,RS,RJ,RS
+7425,16,2021-08-16,20:01,Segunda-feira,Chapecoense,America-MG,4-3-3,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,-,arena conda,1,1,SC,MG,-
+7426,17,2021-08-21,17:00,Sabado,Atletico-GO,Chapecoense,4-4-2,4-2-3-1,L. de Oliveira Preto,L. de Oliveira Preto,-,estadio antonio accioly,1,1,GO,SC,-
+7427,17,2021-08-21,19:00,Sabado,Gremio,Bahia,4-2-3-1,4-1-4-1,B. Lopes,B. Lopes,Gremio,arena do gremio,2,0,RS,BA,RS
+7428,17,2021-08-21,21:00,Sabado,Juventude,Fortaleza,4-2-3-1,3-4-1-2,J. Vojvoda,J. Vojvoda,-,alfredo jaconi,1,1,RS,CE,-
+7429,17,2021-08-22,11:00,Domingo,Palmeiras,Cuiaba,4-2-3-1,4-4-2,J. de Amorim Campos,J. de Amorim Campos,Cuiaba,allianz parque,0,2,SP,MT,MT
+7430,17,2021-08-22,16:00,Domingo,Ceara,Flamengo,4-2-3-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,-,arena castelao,1,1,CE,RJ,-
+7431,17,2021-08-22,15:59,Domingo,Athletico-PR,Corinthians,4-2-3-1,4-2-3-1,S. Campos Junior,S. Campos Junior,Corinthians,estadio joaquim americo guimaraes,0,1,PR,SP,SP
+7432,17,2021-08-22,18:14,Domingo,Santos,Internacional,4-2-3-1,4-4-2,D. Aguirre Camblor,D. Aguirre Camblor,-,estadio urbano caldeira,2,2,SP,RS,-
+7433,17,2021-08-22,20:30,Domingo,Sport,Sao Paulo,4-2-3-1,4-3-3,H. Crespo,H. Crespo,Sao Paulo,adelmar da costa carvalho,0,1,PE,SP,SP
+7434,17,2021-08-23,20:00,Segunda-feira,America-MG,Bragantino,4-2-3-1,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Bragantino,estadio raimundo sampaio,0,2,MG,SP,SP
+7435,17,2021-08-23,19:59,Segunda-feira,Fluminense,Atletico-MG,4-2-3-1,4-2-3-1,A. Stival,A. Stival,-,estadio vasco da gama,1,1,RJ,MG,-
+7436,18,2021-08-28,17:00,Sabado,Sport,Chapecoense,4-2-3-1,4-1-4-1,D. Camargo,D. Camargo,-,adelmar da costa carvalho,0,0,PE,SC,-
+7437,18,2021-08-28,19:00,Sabado,Santos,Flamengo,4-2-3-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,Flamengo,estadio urbano caldeira,0,4,SP,RJ,RJ
+7438,18,2021-08-28,21:00,Sabado,Gremio,Corinthians,4-2-3-1,4-5-1,S. Campos Junior,S. Campos Junior,Corinthians,arena do gremio,0,1,RS,SP,SP
+7439,18,2021-08-28,21:00,Sabado,Palmeiras,Athletico-PR,4-2-3-1,4-2-3-1,A. Cardoso de Oliveira,A. Cardoso de Oliveira,Palmeiras,allianz parque,2,1,SP,PR,SP
+7440,18,2021-08-29,11:01,Domingo,America-MG,Ceara,4-2-3-1,4-2-3-1,A. Ferreira,A. Ferreira,America-MG,estadio raimundo sampaio,2,0,MG,CE,MG
+7441,18,2021-08-29,16:00,Domingo,Juventude,Sao Paulo,5-3-2,3-4-1-2,H. Crespo,H. Crespo,-,alfredo jaconi,1,1,RS,SP,-
+7442,18,2021-08-29,18:14,Domingo,Atletico-GO,Internacional,4-4-2,4-2-3-1,D. Aguirre Camblor,D. Aguirre Camblor,-,estadio antonio accioly,0,0,GO,RS,-
+7443,18,2021-08-29,20:31,Domingo,Bragantino,Atletico-MG,4-2-3-1,4-2-3-1,A. Stival,A. Stival,-,nabizao,1,1,SP,MG,-
+7444,18,2021-08-30,19:00,Segunda-feira,Fluminense,Bahia,4-3-3,4-2-3-1,D. Dabove,D. Dabove,Fluminense,maracana,2,0,RJ,BA,RJ
+7445,18,2021-08-30,21:30,Segunda-feira,Fortaleza,Cuiaba,3-4-1-2,4-4-2,J. de Amorim Campos,J. de Amorim Campos,-,arena castelao,0,0,CE,MT,-
+7446,19,2021-09-04,20:59,Sabado,Bahia,Fortaleza,4-2-3-1,3-4-3,J. Vojvoda,J. Vojvoda,Bahia,estadio de pituacu,4,2,BA,CE,BA
+7447,19,2021-09-04,21:00,Sabado,Cuiaba,Santos,4-2-3-1,4-3-3,F. Diniz Silva,F. Diniz Silva,Cuiaba,arena pantanal,2,1,MT,SP,MT
+7448,19,2021-09-05,18:15,Domingo,Athletico-PR,Sport,4-2-3-1,4-2-3-1,G. Florentín,G. Florentín,-,estadio joaquim americo guimaraes,0,0,PR,PE,-
+7449,19,2021-09-07,21:30,Terça-feira,Corinthians,Juventude,4-5-1,4-1-2-1-2,M. dos Santos Gonçalves,M. dos Santos Gonçalves,-,neo quimica arena,1,1,SP,RS,-
+7450,19,2021-09-07,21:30,Terça-feira,Chapecoense,Fluminense,4-4-2,4-3-3,M. de Oliveira,M. de Oliveira,Fluminense,arena conda,1,2,SC,RJ,RJ
+7451,19,2021-09-22,20:31,Quarta-feira,Sao Paulo,America-MG,4-3-1-2,4-1-3-2,V. Carmo Mancini,V. Carmo Mancini,-,morumbi,0,0,SP,MG,-
+7452,19,2021-10-20,19:02,Quarta-feira,Ceara,Palmeiras,4-2-3-1,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Palmeiras,arena castelao,1,2,CE,SP,SP
+7453,19,2021-10-21,20:00,Quinta-feira,Internacional,Bragantino,4-2-3-1,4-4-2,M. Nogueira Barbieri,M. Nogueira Barbieri,-,estadio jose pinheiro borda,1,1,RS,SP,-
+7454,19,2021-11-03,21:00,Quarta-feira,Atletico-MG,Gremio,4-4-2,4-3-3,V. Carmo Mancini,V. Carmo Mancini,Atletico-MG,mineirao,2,1,MG,RS,MG
+7455,19,2021-11-05,21:31,Sexta-feira,Flamengo,Atletico-GO,4-4-2,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Flamengo,maracana,2,0,RJ,GO,RJ
+7456,20,2021-09-11,16:00,Sabado,America-MG,Athletico-PR,3-4-1-2,4-4-2,P. Autuori de Mello,P. Autuori de Mello,America-MG,estadio raimundo sampaio,2,0,MG,PR,MG
+7457,20,2021-09-11,17:00,Sabado,Juventude,Cuiaba,4-3-3,4-2-3-1,J. de Amorim Campos,J. de Amorim Campos,Cuiaba,alfredo jaconi,1,2,RS,MT,MT
+7458,20,2021-09-11,18:59,Sabado,Bragantino,Chapecoense,4-2-3-1,4-1-4-1,L. de Oliveira Preto,L. de Oliveira Preto,Chapecoense,nabizao,1,2,SP,SC,SC
+7459,20,2021-09-11,21:00,Sabado,Santos,Bahia,4-1-4-1,4-4-2,D. Dabove,D. Dabove,-,estadio urbano caldeira,0,0,SP,BA,-
+7460,20,2021-09-12,11:00,Domingo,Gremio,Ceara,4-2-3-1,4-2-3-1,T. Retzalff Nunes,T. Retzalff Nunes,Gremio,arena do gremio,2,0,RS,CE,RS
+7461,20,2021-09-12,16:00,Domingo,Fortaleza,Atletico-MG,3-4-1-2,4-2-3-1,A. Stival,A. Stival,Atletico-MG,arena castelao,0,2,CE,MG,MG
+7462,20,2021-09-12,15:59,Domingo,Palmeiras,Flamengo,4-2-3-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,Flamengo,allianz parque,1,3,SP,RJ,RJ
+7463,20,2021-09-12,18:15,Domingo,Atletico-GO,Corinthians,4-4-2,4-5-1,S. Campos Junior,S. Campos Junior,-,estadio antonio accioly,1,1,GO,SP,-
+7464,20,2021-09-12,20:30,Domingo,Fluminense,Sao Paulo,4-3-3,3-4-1-2,H. Crespo,H. Crespo,Fluminense,maracana,2,1,RJ,SP,RJ
+7465,20,2021-09-13,20:00,Segunda-feira,Sport,Internacional,5-3-2,4-2-3-1,D. Aguirre Camblor,D. Aguirre Camblor,Internacional,adelmar da costa carvalho,0,1,PE,RS,RS
+7466,21,2021-09-18,17:00,Sabado,Chapecoense,Palmeiras,4-4-2,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Palmeiras,arena conda,0,2,SC,SP,SP
+7467,21,2021-09-18,18:45,Sabado,Athletico-PR,Juventude,3-4-2-1,4-2-3-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,Athletico-PR,estadio joaquim americo guimaraes,2,1,PR,RS,PR
+7468,21,2021-09-18,19:01,Sabado,Atletico-MG,Sport,4-2-3-1,4-2-3-1,G. Florentín,G. Florentín,Atletico-MG,mineirao,3,0,MG,PE,MG
+7469,21,2021-09-18,21:00,Sabado,Bahia,Bragantino,4-3-3,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,-,itaipava arena fonte nova,1,1,BA,SP,-
+7470,21,2021-09-18,20:59,Sabado,Ceara,Santos,4-2-3-1,3-4-3,F. Carille,F. Carille,-,arena castelao,0,0,CE,SP,-
+7471,21,2021-09-19,11:01,Domingo,Internacional,Fortaleza,4-2-3-1,3-4-1-2,J. Vojvoda,J. Vojvoda,Internacional,estadio jose pinheiro borda,1,0,RS,CE,RS
+7472,21,2021-09-19,16:01,Domingo,Sao Paulo,Atletico-GO,4-3-3,4-4-2,E. de Souza Barroca,E. de Souza Barroca,Sao Paulo,morumbi,2,1,SP,GO,SP
+7473,21,2021-09-19,18:15,Domingo,Corinthians,America-MG,4-3-3,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,-,neo quimica arena,1,1,SP,MG,-
+7474,21,2021-09-19,20:30,Domingo,Flamengo,Gremio,4-2-3-1,4-2-3-1,L. Scolari,L. Scolari,Gremio,maracana,0,1,RJ,RS,RS
+7475,21,2021-09-20,20:00,Segunda-feira,Cuiaba,Fluminense,4-2-3-1,4-3-3,M. de Oliveira,M. de Oliveira,-,arena pantanal,2,2,MT,RJ,-
+7476,22,2021-09-25,17:00,Sabado,Ceara,Chapecoense,4-2-3-1,4-1-4-1,L. de Oliveira Preto,L. de Oliveira Preto,Ceara,arena castelao,1,0,CE,SC,CE
+7477,22,2021-09-25,19:00,Sabado,Corinthians,Palmeiras,4-3-3,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Corinthians,neo quimica arena,2,1,SP,SP,SP
+7478,22,2021-09-25,21:00,Sabado,Sao Paulo,Atletico-MG,3-4-1-2,3-5-2,A. Stival,A. Stival,-,morumbi,0,0,SP,MG,-
+7479,22,2021-09-26,11:04,Domingo,America-MG,Flamengo,4-2-3-1,4-3-3,Renato Gaúcho,Renato Gaúcho,-,estadio raimundo sampaio,1,1,MG,RJ,-
+7480,22,2021-09-26,16:00,Domingo,Internacional,Bahia,4-2-3-1,4-4-2,D. Dabove,D. Dabove,Internacional,estadio jose pinheiro borda,2,0,RS,BA,RS
+7481,22,2021-09-26,16:00,Domingo,Fluminense,Bragantino,4-3-3,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Fluminense,maracana,2,1,RJ,SP,RJ
+7482,22,2021-09-26,16:00,Domingo,Juventude,Santos,3-4-2-1,3-4-1-2,F. Carille,F. Carille,Juventude,alfredo jaconi,3,0,RS,SP,RS
+7483,22,2021-09-26,18:16,Domingo,Sport,Fortaleza,4-2-3-1,3-4-1-2,J. Vojvoda,J. Vojvoda,Fortaleza,arena de pernambuco,0,1,PE,CE,CE
+7484,22,2021-09-26,18:15,Domingo,Athletico-PR,Gremio,3-4-2-1,4-2-3-1,L. Scolari,L. Scolari,Athletico-PR,estadio joaquim americo guimaraes,4,2,PR,RS,PR
+7485,22,2021-09-26,20:30,Domingo,Atletico-GO,Cuiaba,4-2-3-1,4-4-2,J. de Amorim Campos,J. de Amorim Campos,-,estadio antonio accioly,0,0,GO,MT,-
+7486,23,2021-10-02,17:01,Sabado,Cuiaba,America-MG,4-2-3-1,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,America-MG,arena pantanal,0,2,MT,MG,MG
+7487,23,2021-10-02,17:01,Sabado,Fortaleza,Atletico-GO,3-4-1-2,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Atletico-GO,arena castelao,0,3,CE,GO,GO
+7488,23,2021-10-02,19:00,Sabado,Bragantino,Corinthians,4-2-3-1,4-1-4-1,S. Campos Junior,S. Campos Junior,-,nabizao,2,2,SP,SP,-
+7489,23,2021-10-02,21:00,Sabado,Atletico-MG,Internacional,4-4-2,4-2-3-1,D. Aguirre Camblor,D. Aguirre Camblor,Atletico-MG,mineirao,1,0,MG,RS,MG
+7490,23,2021-10-03,16:00,Domingo,Flamengo,Athletico-PR,4-4-2,3-4-2-1,B. Lazaroni,B. Lazaroni,Flamengo,maracana,3,0,RJ,PR,RJ
+7491,23,2021-10-03,16:00,Domingo,Chapecoense,Sao Paulo,4-1-4-1,3-4-1-2,H. Crespo,H. Crespo,-,arena conda,1,1,SC,SP,-
+7492,23,2021-10-03,18:15,Domingo,Palmeiras,Juventude,4-1-4-1,4-1-4-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,-,allianz parque,1,1,SP,RS,-
+7493,23,2021-10-03,20:30,Domingo,Gremio,Sport,4-2-3-1,4-1-4-1,G. Florentín,G. Florentín,Sport,arena do gremio,1,2,RS,PE,PE
+7494,23,2021-10-27,18:59,Quarta-feira,Santos,Fluminense,3-4-3,4-2-3-1,M. de Oliveira,M. de Oliveira,Santos,estadio urbano caldeira,2,0,SP,RJ,SP
+7495,23,2021-10-27,19:00,Quarta-feira,Bahia,Ceara,4-1-4-1,4-4-2,T. Retzalff Nunes,T. Retzalff Nunes,-,itaipava arena fonte nova,1,1,BA,CE,-
+7496,24,2021-10-05,21:30,Terça-feira,Corinthians,Bahia,4-1-4-1,4-4-2,D. Dabove,D. Dabove,Corinthians,neo quimica arena,3,1,SP,BA,SP
+7497,24,2021-10-06,18:59,Quarta-feira,Chapecoense,Atletico-MG,4-4-2,4-2-3-1,A. Stival,A. Stival,-,arena conda,2,2,SC,MG,-
+7498,24,2021-10-06,19:00,Quarta-feira,Atletico-GO,Athletico-PR,4-2-3-1,3-4-2-1,A. Valentim do Carmo Neto,A. Valentim do Carmo Neto,Athletico-PR,estadio antonio accioly,0,2,GO,PR,PR
+7499,24,2021-10-06,19:00,Quarta-feira,Sport,Juventude,4-2-3-1,4-1-4-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,Sport,arena de pernambuco,3,1,PE,RS,PE
+7500,24,2021-10-06,19:00,Quarta-feira,Ceara,Internacional,4-2-3-1,4-2-3-1,D. Aguirre Camblor,D. Aguirre Camblor,-,arena castelao,0,0,CE,RS,-
+7501,24,2021-10-06,20:30,Quarta-feira,Bragantino,Flamengo,4-2-3-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,-,nabizao,1,1,SP,RJ,-
+7502,24,2021-10-06,21:30,Quarta-feira,Fluminense,Fortaleza,4-3-3,3-4-2-1,J. Vojvoda,J. Vojvoda,Fortaleza,maracana,0,2,RJ,CE,CE
+7503,24,2021-10-06,21:30,Quarta-feira,America-MG,Palmeiras,4-2-3-1,3-4-2-1,A. Moreira Ferreira,A. Moreira Ferreira,America-MG,estadio raimundo sampaio,2,1,MG,SP,MG
+7504,24,2021-10-06,21:29,Quarta-feira,Gremio,Cuiaba,4-2-3-1,4-4-2,J. de Amorim Campos,J. de Amorim Campos,-,arena do gremio,2,2,RS,MT,-
+7505,24,2021-10-07,18:30,Quinta-feira,Sao Paulo,Santos,4-2-3-1,3-5-2,F. Carille,F. Carille,-,morumbi,1,1,SP,SP,-
+7506,25,2021-10-09,16:30,Sabado,Fluminense,Atletico-GO,4-3-3,4-4-2,E. do Nascimento Souza,E. do Nascimento Souza,-,maracana,0,0,RJ,GO,-
+7507,25,2021-10-09,16:30,Sabado,Atletico-MG,Ceara,4-2-3-1,4-2-3-1,T. Retzalff Nunes,T. Retzalff Nunes,Atletico-MG,mineirao,3,1,MG,CE,MG
+7508,25,2021-10-09,16:30,Sabado,Sport,Corinthians,4-1-4-1,4-1-4-1,S. Campos Junior,S. Campos Junior,Sport,arena de pernambuco,1,0,PE,SP,PE
+7509,25,2021-10-09,19:00,Sabado,Fortaleza,Flamengo,5-4-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,Flamengo,arena castelao,0,3,CE,RJ,RJ
+7510,25,2021-10-09,19:00,Sabado,Athletico-PR,Bahia,3-4-2-1,4-2-3-1,A. Ferreira,A. Ferreira,Bahia,estadio joaquim americo guimaraes,0,2,PR,BA,BA
+7511,25,2021-10-09,20:59,Sabado,Palmeiras,Bragantino,3-5-2,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Bragantino,allianz parque,2,4,SP,SP,SP
+7512,25,2021-10-09,21:00,Sabado,Juventude,America-MG,4-3-3,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,-,alfredo jaconi,1,1,RS,MG,-
+7513,25,2021-10-10,10:59,Domingo,Internacional,Chapecoense,4-2-3-1,4-4-2,L. de Oliveira Preto,L. de Oliveira Preto,Internacional,estadio jose pinheiro borda,5,2,RS,SC,RS
+7514,25,2021-10-10,16:00,Domingo,Santos,Gremio,3-4-1-2,3-4-2-1,L. Scolari,L. Scolari,Santos,estadio urbano caldeira,1,0,SP,RS,SP
+7515,25,2021-10-11,20:00,Segunda-feira,Cuiaba,Sao Paulo,4-4-2,4-2-3-1,H. Crespo,H. Crespo,-,arena pantanal,0,0,MT,SP,-
+7516,26,2021-10-12,19:00,Terça-feira,Bragantino,Atletico-GO,4-2-3-1,4-2-3-1,J. P. Sanches,J. P. Sanches,Bragantino,nabizao,1,0,SP,GO,SP
+7517,26,2021-10-12,21:30,Terça-feira,Bahia,Palmeiras,4-2-3-1,4-4-2,A. Moreira Ferreira,A. Moreira Ferreira,-,itaipava arena fonte nova,0,0,BA,SP,-
+7518,26,2021-10-13,18:59,Quarta-feira,Atletico-MG,Santos,4-2-3-1,3-4-1-2,F. Carille,F. Carille,Atletico-MG,mineirao,3,1,MG,SP,MG
+7519,26,2021-10-13,18:59,Quarta-feira,Chapecoense,Athletico-PR,5-3-2,3-4-3,A. Valentim do Carmo Neto,A. Valentim do Carmo Neto,-,arena conda,1,1,SC,PR,-
+7520,26,2021-10-13,19:01,Quarta-feira,Flamengo,Juventude,4-2-3-1,3-4-1-2,M. dos Santos Gonçalves,M. dos Santos Gonçalves,Flamengo,maracana,3,1,RJ,RS,RJ
+7521,26,2021-10-13,20:29,Quarta-feira,Fortaleza,Gremio,3-4-1-2,3-4-1-2,T. Gomes Pacheco,T. Gomes Pacheco,Fortaleza,arena castelao,1,0,CE,RS,CE
+7522,26,2021-10-13,21:00,Quarta-feira,Corinthians,Fluminense,4-1-4-1,4-3-3,M. de Oliveira,M. de Oliveira,Corinthians,neo quimica arena,1,0,SP,RJ,SP
+7523,26,2021-10-13,21:30,Quarta-feira,Internacional,America-MG,4-2-3-1,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,Internacional,estadio jose pinheiro borda,3,1,RS,MG,RS
+7524,26,2021-10-14,19:01,Quinta-feira,Sao Paulo,Ceara,4-1-3-2,4-2-3-1,E. L. Fornari,E. L. Fornari,-,morumbi,1,1,SP,CE,-
+7525,26,2021-10-14,18:59,Quinta-feira,Cuiaba,Sport,4-4-2,4-2-3-1,G. Florentín,G. Florentín,Cuiaba,arena pantanal,1,0,MT,PE,MT
+7526,27,2021-10-16,18:59,Sabado,Chapecoense,Fortaleza,5-3-2,3-4-1-2,J. Vojvoda,J. Vojvoda,Fortaleza,arena conda,1,2,SC,CE,CE
+7527,27,2021-10-16,21:00,Sabado,America-MG,Bahia,4-2-3-1,4-1-4-1,A. Ferreira,A. Ferreira,-,estadio raimundo sampaio,0,0,MG,BA,-
+7528,27,2021-10-17,16:00,Domingo,Athletico-PR,Fluminense,3-4-2-1,4-2-3-1,M. de Oliveira,M. de Oliveira,Fluminense,estadio joaquim americo guimaraes,0,1,PR,RJ,RJ
+7529,27,2021-10-17,16:00,Domingo,Palmeiras,Internacional,4-4-2,4-2-3-1,D. Aguirre Camblor,D. Aguirre Camblor,Palmeiras,allianz parque,1,0,SP,RS,SP
+7530,27,2021-10-17,18:15,Domingo,Ceara,Bragantino,4-2-3-1,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,-,arena castelao,2,2,CE,SP,-
+7531,27,2021-10-17,18:15,Domingo,Gremio,Juventude,4-2-3-1,4-3-3,M. dos Santos Gonçalves,M. dos Santos Gonçalves,Gremio,arena do gremio,3,2,RS,RS,RS
+7532,27,2021-10-17,18:16,Domingo,Atletico-GO,Atletico-MG,4-2-3-1,4-2-3-1,A. Stival,A. Stival,Atletico-GO,estadio antonio accioly,2,1,GO,MG,GO
+7533,27,2021-10-17,20:30,Domingo,Sport,Santos,4-2-3-1,3-4-1-2,F. Carille,F. Carille,-,adelmar da costa carvalho,0,0,PE,SP,-
+7534,27,2021-10-17,20:30,Domingo,Flamengo,Cuiaba,4-2-3-1,4-4-2,J. de Amorim Campos,J. de Amorim Campos,-,maracana,0,0,RJ,MT,-
+7535,27,2021-10-18,20:00,Segunda-feira,Sao Paulo,Corinthians,4-1-3-2,4-1-4-1,S. Campos Junior,S. Campos Junior,Sao Paulo,morumbi,1,0,SP,SP,SP
+7536,28,2021-10-23,16:59,Sabado,Santos,America-MG,4-2-3-1,4-2-3-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,America-MG,estadio urbano caldeira,0,2,SP,MG,MG
+7537,28,2021-10-23,17:00,Sabado,Juventude,Ceara,4-3-3,4-2-3-1,T. Retzalff Nunes,T. Retzalff Nunes,-,alfredo jaconi,0,0,RS,CE,-
+7538,28,2021-10-23,19:00,Sabado,Fluminense,Flamengo,4-2-3-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,Fluminense,maracana,3,1,RJ,RJ,RJ
+7539,28,2021-10-23,19:16,Sabado,Fortaleza,Athletico-PR,3-4-1-2,4-2-3-1,A. Valentim do Carmo Neto,A. Valentim do Carmo Neto,Fortaleza,arena castelao,3,0,CE,PR,CE
+7540,28,2021-10-24,16:00,Domingo,Internacional,Corinthians,4-2-3-1,4-3-3,S. Campos Junior,S. Campos Junior,-,estadio jose pinheiro borda,2,2,RS,SP,-
+7541,28,2021-10-24,16:00,Domingo,Atletico-MG,Cuiaba,4-2-3-1,4-4-2,J. de Amorim Campos,J. de Amorim Campos,Atletico-MG,mineirao,2,1,MG,MT,MG
+7542,28,2021-10-24,18:16,Domingo,Bragantino,Sao Paulo,4-2-3-1,4-1-2-1-2,R. Ceni,R. Ceni,Bragantino,nabizao,1,0,SP,SP,SP
+7543,28,2021-10-24,20:29,Domingo,Bahia,Chapecoense,4-4-2,5-3-2,L. de Oliveira Preto,L. de Oliveira Preto,Bahia,itaipava arena fonte nova,3,0,BA,SC,BA
+7544,28,2021-10-25,19:59,Segunda-feira,Atletico-GO,Gremio,4-2-3-1,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,Atletico-GO,estadio antonio accioly,2,0,GO,RS,GO
+7545,28,2021-10-25,21:30,Segunda-feira,Palmeiras,Sport,4-2-3-1,4-2-3-1,G. Florentín,G. Florentín,Palmeiras,allianz parque,2,1,SP,PE,SP
+7556,29,2021-10-30,17:00,Sabado,Athletico-PR,Santos,3-4-3,3-4-3,F. Carille,F. Carille,Santos,estadio joaquim americo guimaraes,0,1,PR,SP,SP
+7557,29,2021-10-30,19:01,Sabado,Flamengo,Atletico-MG,4-2-3-1,4-2-3-1,A. Stival,A. Stival,Flamengo,maracana,1,0,RJ,MG,RJ
+7558,29,2021-10-30,19:15,Sabado,Juventude,Bahia,4-2-3-1,4-3-3,A. Ferreira,A. Ferreira,-,alfredo jaconi,0,0,RS,BA,-
+7559,29,2021-10-30,22:01,Sabado,America-MG,Fortaleza,4-1-3-2,3-4-1-2,J. Vojvoda,J. Vojvoda,America-MG,estadio raimundo sampaio,2,1,MG,CE,MG
+7560,29,2021-10-31,16:01,Domingo,Gremio,Palmeiras,4-2-3-1,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Palmeiras,arena do gremio,1,3,RS,SP,SP
+7561,29,2021-10-31,16:02,Domingo,Ceara,Fluminense,4-2-3-1,4-2-3-1,M. de Oliveira,M. de Oliveira,Ceara,arena castelao,1,0,CE,RJ,CE
+7562,29,2021-10-31,18:15,Domingo,Sao Paulo,Internacional,5-3-2,4-3-3,D. Aguirre Camblor,D. Aguirre Camblor,Sao Paulo,morumbi,1,0,SP,RS,SP
+7563,29,2021-10-31,20:29,Domingo,Sport,Atletico-GO,4-1-4-1,4-2-3-1,E. de Souza Barroca,E. de Souza Barroca,Sport,arena de pernambuco,2,0,PE,GO,PE
+7564,29,2021-11-01,20:00,Segunda-feira,Cuiaba,Bragantino,4-1-2-1-2,4-4-2,M. Nogueira Barbieri,M. Nogueira Barbieri,Cuiaba,arena pantanal,1,0,MT,SP,MT
+7565,29,2021-11-01,21:29,Segunda-feira,Corinthians,Chapecoense,4-3-3,4-5-1,F. Paiva Endres,F. Paiva Endres,Corinthians,neo quimica arena,1,0,SP,SC,SP
+7576,30,2021-11-06,17:00,Sabado,Corinthians,Fortaleza,4-2-3-1,3-4-1-2,J. Vojvoda,J. Vojvoda,Corinthians,neo quimica arena,1,0,SP,CE,SP
+7577,30,2021-11-06,19:00,Sabado,Internacional,Gremio,4-2-3-1,4-3-3,V. Carmo Mancini,V. Carmo Mancini,Internacional,estadio jose pinheiro borda,1,0,RS,RS,RS
+7578,30,2021-11-06,21:00,Sabado,Fluminense,Sport,4-2-2-2,4-1-4-1,C. de Lucena,C. de Lucena,Fluminense,maracana,1,0,RJ,PE,RJ
+7579,30,2021-11-07,16:00,Domingo,Bragantino,Athletico-PR,4-2-3-1,3-4-2-1,A. Valentim do Carmo Neto,A. Valentim do Carmo Neto,Athletico-PR,nabizao,0,2,SP,PR,PR
+7580,30,2021-11-07,16:00,Domingo,Atletico-MG,America-MG,4-2-3-1,4-3-3,M. dos Santos Gonçalves,M. dos Santos Gonçalves,Atletico-MG,mineirao,1,0,MG,MG,MG
+7581,30,2021-11-07,13:58,Domingo,Santos,Palmeiras,5-4-1,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Palmeiras,estadio urbano caldeira,0,2,SP,SP,SP
+7582,30,2021-11-07,18:15,Domingo,Bahia,Sao Paulo,4-1-4-1,3-5-2,R. Ceni,R. Ceni,Bahia,itaipava arena fonte nova,1,0,BA,SP,BA
+7583,30,2021-11-07,20:31,Domingo,Ceara,Cuiaba,4-2-3-1,4-4-2,J. de Amorim Campos,J. de Amorim Campos,Ceara,arena castelao,1,0,CE,MT,CE
+7584,30,2021-11-08,11:06,Segunda-feira,Chapecoense,Flamengo,4-2-3-1,4-4-2,Renato Gaúcho,Renato Gaúcho,-,arena conda,2,2,SC,RJ,-
+7585,30,2021-11-11,19:01,Quinta-feira,Atletico-GO,Juventude,4-2-3-1,4-4-2,J. Ribeiro Ventura,J. Ribeiro Ventura,-,estadio antonio accioly,1,1,GO,RS,-
+7566,31,2021-11-04,21:00,Quinta-feira,Cuiaba,Chapecoense,4-3-3,4-5-1,F. Paiva Endres,F. Paiva Endres,-,arena pantanal,0,0,MT,SC,-
+7567,31,2021-11-09,21:33,Terça-feira,Gremio,Fluminense,4-2-3-1,4-4-2,M. de Oliveira,M. de Oliveira,Gremio,arena do gremio,1,0,RS,RJ,RS
+7568,31,2021-11-10,18:31,Quarta-feira,Athletico-PR,Ceara,3-4-3,4-2-3-1,T. Retzalff Nunes,T. Retzalff Nunes,Athletico-PR,estadio joaquim americo guimaraes,2,1,PR,CE,PR
+7569,31,2021-11-10,19:01,Quarta-feira,Atletico-MG,Corinthians,4-2-3-1,4-1-4-1,S. Campos Junior,S. Campos Junior,Atletico-MG,mineirao,3,0,MG,SP,MG
+7570,31,2021-11-10,18:59,Quarta-feira,Santos,Bragantino,3-4-1-2,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Santos,estadio urbano caldeira,2,0,SP,SP,SP
+7571,31,2021-11-10,20:29,Quarta-feira,Palmeiras,Atletico-GO,4-2-3-1,4-1-4-1,E. de Souza Barroca,E. de Souza Barroca,Palmeiras,allianz parque,4,0,SP,GO,SP
+7572,31,2021-11-10,21:31,Quarta-feira,Fortaleza,Sao Paulo,3-4-1-2,3-1-4-2,R. Ceni,R. Ceni,-,arena castelao,1,1,CE,SP,-
+7573,31,2021-11-10,21:31,Quarta-feira,Sport,America-MG,4-1-4-1,4-1-4-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,America-MG,arena de pernambuco,2,3,PE,MG,MG
+7574,31,2021-11-10,21:30,Quarta-feira,Juventude,Internacional,4-4-2,4-2-3-1,D. Aguirre Camblor,D. Aguirre Camblor,Juventude,alfredo jaconi,2,1,RS,RS,RS
+7575,31,2021-11-11,19:01,Quinta-feira,Flamengo,Bahia,4-2-3-1,4-2-3-1,A. Ferreira,A. Ferreira,Flamengo,maracana,3,0,RJ,BA,RJ
+7586,32,2021-11-13,17:10,Sabado,Atletico-GO,Santos,4-2-3-1,3-4-1-2,F. Carille,F. Carille,-,estadio antonio accioly,0,0,GO,SP,-
+7587,32,2021-11-13,09:50,Sabado,America-MG,Gremio,4-1-4-1,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,America-MG,estadio raimundo sampaio,3,1,MG,RS,MG
+7588,32,2021-11-13,18:58,Sabado,Bragantino,Fortaleza,4-2-3-1,3-4-1-2,J. Vojvoda,J. Vojvoda,Bragantino,nabizao,3,0,SP,CE,SP
+7589,32,2021-11-13,19:00,Sabado,Internacional,Athletico-PR,4-2-3-1,3-4-3,A. Valentim do Carmo Neto,A. Valentim do Carmo Neto,Internacional,estadio jose pinheiro borda,2,1,RS,PR,RS
+7590,32,2021-11-13,21:00,Sabado,Corinthians,Cuiaba,4-5-1,4-2-3-1,J. de Amorim Campos,J. de Amorim Campos,Corinthians,neo quimica arena,3,2,SP,MT,SP
+7591,32,2021-11-14,16:01,Domingo,Sao Paulo,Flamengo,4-3-1-2,4-4-2,Renato Gaúcho,Renato Gaúcho,Flamengo,morumbi,0,4,SP,RJ,RJ
+7592,32,2021-11-14,18:15,Domingo,Fluminense,Palmeiras,4-2-3-1,4-2-3-1,A. Moreira Ferreira,A. Moreira Ferreira,Fluminense,maracana,2,1,RJ,SP,RJ
+7593,32,2021-11-14,19:01,Domingo,Ceara,Sport,4-2-3-1,4-1-4-1,G. Florentín,G. Florentín,Ceara,arena castelao,2,1,CE,PE,CE
+7594,32,2021-11-14,19:03,Domingo,Chapecoense,Juventude,4-3-3,4-2-3-1,J. Ribeiro Ventura,J. Ribeiro Ventura,Juventude,arena conda,0,2,SC,RS,RS
+7595,32,2021-12-12,18:00,Domingo,Bahia,Atletico-MG,4-2-3-1,4-2-3-1,A. Stival,A. Stival,Atletico-MG,itaipava arena fonte nova,2,3,BA,MG,MG
+7596,33,2021-11-16,16:00,Terça-feira,Athletico-PR,Atletico-MG,3-5-2,4-2-2-2,A. Stival,A. Stival,Atletico-MG,estadio joaquim americo guimaraes,0,1,PR,MG,MG
+7597,33,2021-11-16,18:00,Terça-feira,Gremio,Bragantino,4-2-3-1,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Gremio,arena do gremio,3,0,RS,SP,RS
+7598,33,2021-11-17,18:59,Quarta-feira,America-MG,Atletico-GO,4-1-4-1,4-2-3-1,M. Ribeiro Cabo,M. Ribeiro Cabo,-,estadio raimundo sampaio,0,0,MG,GO,-
+7599,33,2021-11-17,18:59,Quarta-feira,Santos,Chapecoense,3-4-1-2,4-5-1,F. Paiva Endres,F. Paiva Endres,Santos,estadio urbano caldeira,2,0,SP,SC,SP
+7600,33,2021-11-17,18:59,Quarta-feira,Cuiaba,Internacional,4-3-3,4-2-3-1,D. Aguirre Camblor,D. Aguirre Camblor,Cuiaba,arena pantanal,1,0,MT,RS,MT
+7601,33,2021-11-17,20:00,Quarta-feira,Fortaleza,Ceara,3-4-1-2,4-2-3-1,T. Retzalff Nunes,T. Retzalff Nunes,Ceara,arena castelao,0,4,CE,CE,CE
+7602,33,2021-11-17,20:29,Quarta-feira,Palmeiras,Sao Paulo,4-1-4-1,4-4-2,R. Ceni,R. Ceni,Sao Paulo,allianz parque,0,2,SP,SP,SP
+7603,33,2021-11-17,20:31,Quarta-feira,Juventude,Fluminense,4-4-2,4-3-3,M. de Oliveira,M. de Oliveira,Juventude,alfredo jaconi,1,0,RS,RJ,RS
+7604,33,2021-11-17,21:30,Quarta-feira,Flamengo,Corinthians,4-3-3,4-3-3,S. Campos Junior,S. Campos Junior,Flamengo,maracana,1,0,RJ,SP,RJ
+7605,33,2021-11-18,20:59,Quinta-feira,Sport,Bahia,4-3-3,4-2-3-1,A. Ferreira,A. Ferreira,Sport,arena de pernambuco,1,0,PE,BA,PE
+7546,34,2021-10-28,19:00,Quinta-feira,Bragantino,Sport,4-4-2,4-2-3-1,G. Florentín,G. Florentín,Bragantino,nabizao,3,0,SP,PE,SP
+7547,34,2021-11-11,19:00,Quinta-feira,Atletico-MG,Juventude,4-2-3-1,5-4-1,J. Ribeiro Ventura,J. Ribeiro Ventura,Atletico-MG,mineirao,2,0,MG,RS,MG
+7548,34,2021-11-11,19:02,Quinta-feira,Fortaleza,Palmeiras,3-4-1-2,4-1-4-1,A. Moreira Ferreira,A. Moreira Ferreira,Fortaleza,arena castelao,1,0,CE,SP,CE
+7549,34,2021-11-11,19:00,Quinta-feira,Chapecoense,Gremio,4-5-1,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,Gremio,arena conda,1,3,SC,RS,RS
+7550,34,2021-11-11,21:00,Quinta-feira,Atletico-GO,Ceara,4-2-3-1,4-2-3-1,T. Retzalff Nunes,T. Retzalff Nunes,-,estadio antonio accioly,1,1,GO,CE,-
+7551,34,2021-11-11,21:30,Quinta-feira,Internacional,Flamengo,4-2-3-1,4-2-3-1,Renato Gaúcho,Renato Gaúcho,Flamengo,estadio jose pinheiro borda,1,2,RS,RJ,RJ
+7552,34,2021-11-11,16:01,Quinta-feira,Corinthians,Santos,4-3-3,3-4-2-1,F. Carille,F. Carille,Corinthians,neo quimica arena,2,0,SP,SP,SP
+7553,34,2021-11-11,17:01,Quinta-feira,Fluminense,America-MG,4-3-3,4-1-4-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,Fluminense,maracana,2,0,RJ,MG,RJ
+7554,34,2021-11-11,19:00,Quinta-feira,Bahia,Cuiaba,4-2-3-1,4-4-2,J. de Amorim Campos,J. de Amorim Campos,-,itaipava arena fonte nova,0,0,BA,MT,-
+7555,34,2021-11-11,21:31,Quinta-feira,Sao Paulo,Athletico-PR,4-4-2,3-4-3,A. Valentim do Carmo Neto,A. Valentim do Carmo Neto,-,morumbi,0,0,SP,PR,-
+7606,35,2021-11-11,21:29,Quinta-feira,Palmeiras,Atletico-MG,3-4-3,4-2-2-2,A. Stival,A. Stival,-,allianz parque,2,2,SP,MG,-
+7607,35,2021-11-11,21:30,Quinta-feira,Fluminense,Internacional,4-3-3,4-2-3-1,D. Aguirre Camblor,D. Aguirre Camblor,Fluminense,maracana,1,0,RJ,RS,RJ
+7608,35,2021-11-11,19:00,Quinta-feira,Santos,Fortaleza,3-4-3,3-4-1-2,J. Vojvoda,J. Vojvoda,Santos,estadio urbano caldeira,2,0,SP,CE,SP
+7609,35,2021-11-11,20:03,Quinta-feira,Ceara,Corinthians,4-2-3-1,4-2-3-1,S. Campos Junior,S. Campos Junior,Ceara,arena castelao,2,1,CE,SP,CE
+7610,35,2021-11-11,19:00,Quinta-feira,Atletico-GO,Bahia,4-2-3-1,4-2-3-1,A. Ferreira,A. Ferreira,Atletico-GO,estadio antonio accioly,2,1,GO,BA,GO
+7611,35,2021-11-11,19:03,Quinta-feira,Juventude,Bragantino,4-4-2,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Juventude,alfredo jaconi,1,0,RS,SP,RS
+7612,35,2021-11-11,21:01,Quinta-feira,America-MG,Chapecoense,4-2-3-1,4-3-3,F. Paiva Endres,F. Paiva Endres,America-MG,estadio raimundo sampaio,3,0,MG,SC,MG
+7613,35,2021-12-12,20:00,Domingo,Gremio,Sao Paulo,4-2-3-1,4-5-1,R. Ceni,R. Ceni,Gremio,arena do gremio,3,0,RS,SP,RS
+7614,35,2021-12-12,19:01,Domingo,Athletico-PR,Cuiaba,3-4-2-1,4-1-4-1,J. de Amorim Campos,J. de Amorim Campos,Athletico-PR,estadio joaquim americo guimaraes,1,0,PR,MT,PR
+7615,35,2021-12-12,20:00,Domingo,Sport,Flamengo,4-2-3-1,4-2-2-2,M. Souza,M. Souza,-,arena de pernambuco,1,1,PE,RJ,-
+7616,36,2021-11-11,19:00,Quinta-feira,Bahia,Gremio,4-2-3-1,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,Bahia,itaipava arena fonte nova,3,1,BA,RS,BA
+7617,36,2021-11-11,19:29,Quinta-feira,Bragantino,America-MG,4-2-3-1,4-1-4-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,-,nabizao,1,1,SP,MG,-
+7618,36,2021-11-11,21:30,Quinta-feira,Sao Paulo,Sport,4-4-2,4-3-3,G. Florentín,G. Florentín,Sao Paulo,morumbi,2,0,SP,PE,SP
+7619,36,2021-11-11,16:01,Quinta-feira,Corinthians,Athletico-PR,4-3-3,3-4-3,A. Valentim do Carmo Neto,A. Valentim do Carmo Neto,Corinthians,neo quimica arena,1,0,SP,PR,SP
+7620,36,2021-11-11,16:01,Quinta-feira,Atletico-MG,Fluminense,4-2-2-2,4-3-3,M. de Oliveira,M. de Oliveira,Atletico-MG,mineirao,2,1,MG,RJ,MG
+7621,36,2021-11-11,19:00,Quinta-feira,Internacional,Santos,4-2-3-1,3-4-3,F. Carille,F. Carille,-,estadio jose pinheiro borda,1,1,RS,SP,-
+7622,36,2021-11-11,20:00,Quinta-feira,Flamengo,Ceara,4-2-3-1,4-2-3-1,T. Retzalff Nunes,T. Retzalff Nunes,Flamengo,maracana,2,1,RJ,CE,RJ
+7623,36,2021-11-11,22:00,Quinta-feira,Cuiaba,Palmeiras,4-4-2,3-4-3,J. M. Barreto Martins,J. M. Barreto Martins,Palmeiras,arena pantanal,1,3,MT,SP,SP
+7624,36,2021-12-12,20:00,Domingo,Chapecoense,Atletico-GO,4-3-3,4-2-3-1,M. Ribeiro Cabo,M. Ribeiro Cabo,Atletico-GO,arena conda,0,1,SC,GO,GO
+7625,36,2021-12-12,21:03,Domingo,Fortaleza,Juventude,3-5-2,3-4-3,E. Rodrigues de Ávila,E. Rodrigues de Ávila,Fortaleza,arena castelao,1,0,CE,RS,CE
+7626,37,2021-12-12,16:00,Domingo,Bahia,Fluminense,4-2-3-1,4-3-3,M. de Oliveira,M. de Oliveira,Bahia,itaipava arena fonte nova,2,0,BA,RJ,BA
+7627,37,2021-12-12,16:01,Domingo,Corinthians,Gremio,4-1-4-1,4-2-3-1,V. Carmo Mancini,V. Carmo Mancini,-,neo quimica arena,1,1,SP,RS,-
+7628,37,2021-12-12,16:00,Domingo,Atletico-MG,Bragantino,4-2-3-1,4-2-3-1,M. Nogueira Barbieri,M. Nogueira Barbieri,Atletico-MG,mineirao,4,3,MG,SP,MG
+7629,37,2021-12-12,19:02,Domingo,Ceara,America-MG,4-2-3-1,4-2-3-1,M. dos Santos Gonçalves,M. dos Santos Gonçalves,-,arena castelao,0,0,CE,MG,-
+7630,37,2021-12-12,19:02,Domingo,Sao Paulo,Juventude,4-3-3,4-4-2,J. Ribeiro Ventura,J. Ribeiro Ventura,Sao Paulo,morumbi,3,1,SP,RS,SP
+7631,37,2021-12-12,19:01,Domingo,Athletico-PR,Palmeiras,3-4-2-1,3-4-3,P. V. Rodrigues Gomes,P. V. Rodrigues Gomes,-,estadio joaquim americo guimaraes,0,0,PR,SP,-
+7632,37,2021-12-12,19:59,Domingo,Cuiaba,Fortaleza,4-4-1-1,3-4-1-2,J. Vojvoda,J. Vojvoda,Cuiaba,arena pantanal,1,0,MT,CE,MT
+7633,37,2021-12-12,19:59,Domingo,Internacional,Atletico-GO,4-2-3-1,4-5-1,M. Ribeiro Cabo,M. Ribeiro Cabo,Atletico-GO,estadio jose pinheiro borda,1,2,RS,GO,GO
+7634,37,2021-12-12,20:00,Domingo,Flamengo,Santos,4-4-2,3-4-2-1,F. Carille,F. Carille,Santos,maracana,0,1,RJ,SP,SP
+7635,37,2021-12-12,21:00,Domingo,Chapecoense,Sport,4-4-2,4-2-3-1,G. Florentín,G. Florentín,Sport,arena conda,0,1,SC,PE,PE
+7636,38,2021-12-12,21:33,Domingo,Fortaleza,Bahia,3-4-1-2,4-2-3-1,A. Ferreira,A. Ferreira,Fortaleza,arena castelao,2,1,CE,BA,CE
+7637,38,2021-12-12,21:33,Domingo,Atletico-GO,Flamengo,4-3-3,3-4-2-1,M. Souza,M. Souza,Atletico-GO,estadio antonio accioly,2,0,GO,RJ,GO
+7638,38,2021-12-12,21:33,Domingo,Palmeiras,Ceara,3-4-1-2,4-2-3-1,T. Retzalff Nunes,T. Retzalff Nunes,Palmeiras,arena barueri,1,0,SP,CE,SP
+7639,38,2021-12-12,21:33,Domingo,Fluminense,Chapecoense,4-2-3-1,5-3-2,F. Paiva Endres,F. Paiva Endres,Fluminense,maracana,3,0,RJ,SC,RJ
+7640,38,2021-12-12,21:33,Domingo,America-MG,Sao Paulo,4-2-3-1,3-4-1-2,R. Ceni,R. Ceni,America-MG,estadio raimundo sampaio,2,0,MG,SP,MG
+7641,38,2021-12-12,21:33,Domingo,Bragantino,Internacional,4-2-3-1,3-4-2-1,D. Aguirre Camblor,D. Aguirre Camblor,Bragantino,nabizao,1,0,SP,RS,SP
+7642,38,2021-12-12,21:30,Domingo,Sport,Athletico-PR,4-2-3-1,3-4-2-1,J. Freitas,J. Freitas,-,arena de pernambuco,1,1,PE,PR,-
+7643,38,2021-12-12,21:33,Domingo,Juventude,Corinthians,3-4-3,4-3-3,S. Campos Junior,S. Campos Junior,Juventude,alfredo jaconi,1,0,RS,SP,RS
+7644,38,2021-12-12,21:33,Domingo,Gremio,Atletico-MG,4-2-3-1,4-2-3-1,A. Stival,A. Stival,Gremio,arena do gremio,4,3,RS,MG,RS
+7645,38,2021-12-12,21:33,Domingo,Santos,Cuiaba,3-4-2-1,4-4-2,J. de Amorim Campos,J. de Amorim Campos,-,estadio urbano caldeira,1,1,SP,MT,-

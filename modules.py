@@ -1,4 +1,5 @@
 from math import sqrt
+from functools import reduce
 
 
 # função para dar o último valor de uma lista ou tupla encadeada
@@ -228,6 +229,26 @@ def qSortL(L):
 # teste: 		- print(qSortL(py2ll([5, 9, 14, 22, 1, 43, 12])))
 
 
+# função para colocar a primeira letra de cada palavra em maiúscula
+def capitalize(L):
+    return mapL(L, lambda x: x.capitalize())
+# teste:        - print(capitalize(py2ll(["abacate", "banana", "chuchu"])))
+
+
+# função para retornar apenas a primeira letra de cada palavra em maiúscula
+def firstLetter(L):
+    return mapL(L, lambda x: x[0].capitalize())
+# teste:        - print(firstLetter(py2ll(["abacate", "banana", "chuchu"])))
+
+
+# função Reduce:
+# teste com strings:
+    # print(reduce((lambda acc, x: acc + ";" + x),
+    #       ["abacate", "banana", "chuchu"]))
+#  teste com ints:
+    # print(reduce(lambda a, b: a*b, [1, 2, 3, 4, 5]))
+
+
 # inicializador
 if __name__ == "__main__":
-    print(qSortL(py2ll([5, 9, 14, 22, 1, 43, 12])))
+    print("Hey!")
