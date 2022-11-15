@@ -1,3 +1,5 @@
+from math import sqrt
+
 
 # função para dar o último valor de uma lista ou tupla encadeada
 def tail(L):
@@ -161,9 +163,71 @@ def incN(L, N):
 # experimento com closures:
 def make_inc_3(n):
     return lambda x: x+n
-#testar:	- print((make_inc_3(5)(2)))
+# testar:	- print((make_inc_3(5)(2)))
+
+
+# função que recebe uma lista L e um predicado f e produz uma nova lista com cada elemento de L
+# que seja verdade para f
+def filterL(L, f):
+    if not L:
+        return None
+    else:
+        T = filterL(tail(L), f)
+        H = head(L)
+        return (H, T) if f(H) else T
+
+
+# função para filtrar numeros impares para incluir em filterL
+def filterOdds(L):
+    return filterL(L, (lambda x: not x % 2))
+# teste:	- print(filterOdds(py2ll([2, 3, 8])))
+
+
+# função apra filtrar valores que são string
+def filterString(L):
+    return filterL(L, lambda x: isinstance(x, str))
+# teste:	- print(filterString(py2ll([2, "3", 8]))))
+
+
+# função para descobrir numeros primos:
+def prime(a):
+    if a < 2:
+        return False
+    for x in range(2, int(sqrt(a))+1):
+        if a % x == 0:
+            return False
+    return True
+
+
+# função para aplicar filtro para números primos, retornando-os:
+def filterPrime(L):
+    return filterL(L, prime)
+# teste: 		- print(filterPrime(py2ll([2, 3, 8, 17, 21, 51]))
+
+
+# função que recebe duas listas e concatena elas:
+def appendL(L1, L2):
+    if not L1:
+        return L2
+    else:
+        return (head(L1), appendL(tail(L1), L2))
+# teste: 		- print(appendL(py2ll([2, 3, 8, 17, 21, 51]), py2ll([7, 23, 56])))
+
+
+# função que recebe uma lista l e retorna uma nova lista com os elementos L ordenados em ordem ascendente
+# QuickSort:
+def qSortL(L):
+    if not L:
+        return None
+    else:
+        H = head(L)
+        T = tail(L)
+        Smalls = qSortL(filterL(T, (lambda x: x < H)))
+        Bigs = qSortL(filterL(T, lambda x: x >= H))
+        return appendL(appendL(Smalls, (H, None)), Bigs)
+# teste: 		- print(qSortL(py2ll([5, 9, 14, 22, 1, 43, 12])))
 
 
 # inicializador
 if __name__ == "__main__":
-    print((make_inc_3(5)(2)))
+    print(qSortL(py2ll([5, 9, 14, 22, 1, 43, 12])))
