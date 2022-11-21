@@ -1,4 +1,4 @@
-from itertools import dropwhile, takewhile
+from itertools import dropwhile, takewhile, count, cycle, product
 # lembrar que as fnções de itertools sempre retornam iteradores,
 # logo é preciso informar que tipo de dado que você quer apresentar, ex: list
 
@@ -58,7 +58,33 @@ def testReadFile(title, readFile, fileName, chapterNum):
 # 				- testReadFile("Strict", readChapter2, "./textExample.txt", 2)
 
 
+# função para teste de count
+def sumIter():
+    l = takewhile(lambda e: e < 10, count(1))
+    return list(l)
+# teste: 	-print(sumIter())
+
+
+# função para teste de cycle
+def sumIter2():
+    return list(takewhile(lambda e: e.isupper(), cycle("Amor")))
+# teste: 	-print(sumIter2())
+
+
+# funcao para determinar dias de plantões de profissionais de acordo com o dia da semana e períodos de trabalho
+# a funcao retorna os profissionais ciclados de acordo com o turno em formato csv
+def plantao2csv():
+    dias = ("Seg", "Ter", "Qua", "Qui", "Sex", "Sab", "Dom")
+    periodos = ("D", "N")
+    profs = ["Nilton", "Alberto", "Galileu", "Luiz"]
+    turnos = product(dias, periodos)
+    plantoes = list(zip(turnos, cycle(profs)))
+    platoesFlat = ([(a, b, c) for (a, b), c in plantoes])
+    for (a, b, c) in platoesFlat:
+        print("%s, %s, %s" % (a, b, c))
+# teste 	-plantao2csv()
+
+
 # inicializador
 if __name__ == "__main__":
-    testReadFile("Lazy", readChapter, "./textExample.txt", 2)
-    testReadFile("Strict", readChapter2, "./textExample.txt", 2)
+    plantao2csv()
