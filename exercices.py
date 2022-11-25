@@ -62,19 +62,34 @@ def zeroHundr(L):
     def filtr(x): return x > 0 and x < 100
     return list(filter(filtr, L))
 
+
 # Escreva uma função que receba uma lista de números e retorne
 # somente aqueles que forem pares. Defina uma função auxiliar para ajudar neste exercício.
+# Ex: print(evenRet([1, 2, 98, 105, -3])) = [2,98]
+def evenRet(L):
+    def filtr(x): return (x % 2) == 0
+    return list(filter(filtr, L))
 
 
 # Crie uma função charFound(c,s) que verifique se o caracter c está contido na string.
 # O resultado deve ser True ou False. Você não deve usar o operador in.
 # Defina uma função auxiliar para ajudar neste exercício.
+# Ex.     print(charFound('c', 'ratinho taroso comeu chuchu')) = [False, False, True, True]
+def charFound(l, string):
+    strInput = str(string).split()
+    mapAux = list(map(lambda x: x.__contains__(l), strInput))
+    return mapAux
 
 
 # Escreva uma função que receba uma lista de strings e retorne uma nova lista
-# com adição de marcações HTML (p.ex.: e ) antes e depois de cada string.
+# com adição de marcações HTML (p.ex.: p) antes e depois de cada string.
+# Ex. print(HTMLBuilder(['c', 'ratinho taroso comeu chuchu']))
+# = ['<p>c</p>', '<p>ratinho taroso comeu chuchu</p>']
+def HTMLBuilder(L):
+    mapAux = list(map(lambda x: "<p>" + x + "</p>", L))
+    return mapAux
 
 
 # inicializador
 if __name__ == "__main__":
-    print(zeroHundr([1, 2, 98, 105 - 3]))
+    print(HTMLBuilder(['c', 'ratinho taroso comeu chuchu']))
