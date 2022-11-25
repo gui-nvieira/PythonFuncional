@@ -58,7 +58,9 @@ def numNeg(L):
 # Escreva uma função que receba uma lista de números e retorne
 # somente os que estiverem entre 1 e 100, inclusive.
 # Defina uma função auxiliar para ajudar neste exercício.
-
+def zeroHundr(L):
+    def filtr(x): return x > 0 and x < 100
+    return list(filter(filtr, L))
 
 # Escreva uma função que receba uma lista de números e retorne
 # somente aqueles que forem pares. Defina uma função auxiliar para ajudar neste exercício.
@@ -75,4 +77,4 @@ def numNeg(L):
 
 # inicializador
 if __name__ == "__main__":
-    print(numNeg([1, 2, -2, -1]))
+    print(zeroHundr([1, 2, 98, 105 - 3]))
