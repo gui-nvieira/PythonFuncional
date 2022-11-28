@@ -53,6 +53,59 @@ def countGoalsPerStadium(matches):
 # teste 			-countGoalsPerStadium(df0)
 
 
+# Função que conta qantos gols foram marcados por um time (com Apply)
+def goalsFromTeam(matches, team):
+    def countGoals(s):
+        if s['mandante'] == team:
+            return s['mandante_placar']
+        elif s['visitante'] == team:
+            return s['visitante_placar']
+    return matches.apply(countGoals, axis=1).sum()
+#teste      -print(goalsFromTeam(df0, "Fluminense"))
+
+
+# função que conte vitórias, empates e derrotas de um certo time
+def countResults(matches, team):
+    def won(s): return s['mandante'] == team and s['mandante_placar'] > s['visitante_placar'] or \
+        s['visitante'] == team and s['visitante_placar'] > s['mandante_placar']
+    nWins = matches.apply(won, axis=1).sum()
+
+    def draw(s): return s['mandante'] == team and s['mandante_placar'] == s['visitante_placar'] or \
+        s['visitante'] == team and s['visitante_placar'] == s['mandante_placar']
+    nDraws = matches.apply(draw, axis=1).sum()
+
+    def loss(s): return s['mandante'] == team and s['mandante_placar'] < s['visitante_placar'] or \
+        s['visitante'] == team and s['visitante_placar'] < s['mandante_placar']
+    nLosses = matches.apply(loss, axis=1).sum()
+
+    return (nWins, nDraws, nLosses)
+#teste: 		-print(countResults(df0, "Fluminense"))
+
+
+# função que conte a quantidade de pontos feitos por um time
+def numPoints(matches, team):
+    (wins, draws, losses) = countResults(matches, team)
+    return (team, 3*wins+draws)
+#teste 		-    print(numPoints(df0, "Fluminense"))
+
+
+# função que retorna os times que participaram do campeonato
+def getAllTeams(mts):
+    mandantes = mts['mandante']
+    visistantes = mts['visitante']
+    return pd.concat([mandantes, visistantes]).drop_duplicates()
+
+
+# função que constrói uma tabela de pontos de todos os campeonatos, ordenado pela quantidade de pontos
+def builtFinalResultTable(matches):
+    teams = getAllTeams(matches)
+    results = [numPoints(matches, team) for team in teams]
+    rank = sorted(results, reverse=True, key=lambda x: x[1])
+    for (team, points) in rank:
+        print("%s: %d" % (team, points))
+# teste 		-    print(builtFinalResultTable(df0))
+
+
 # inicializador
 if __name__ == "__main__":
-    countGoalsPerStadium(df0)
+    print(builtFinalResultTable(df0))
